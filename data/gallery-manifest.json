@@ -1,0 +1,2454 @@
+{
+  "bar": {
+    "label": "BAR",
+    "photos": [
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/bar/001-thumb.jpg",
+          "webp": "assets/img/gallery/bar/001-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/bar/001-full.jpg",
+          "webp": "assets/img/gallery/bar/001-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/bar/002-thumb.jpg",
+          "webp": "assets/img/gallery/bar/002-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/bar/002-full.jpg",
+          "webp": "assets/img/gallery/bar/002-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/bar/003-thumb.jpg",
+          "webp": "assets/img/gallery/bar/003-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2401,
+          "jpg": "assets/img/gallery/bar/003-full.jpg",
+          "webp": "assets/img/gallery/bar/003-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1339,
+          "jpg": "assets/img/gallery/bar/004-thumb.jpg",
+          "webp": "assets/img/gallery/bar/004-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2380,
+          "jpg": "assets/img/gallery/bar/004-full.jpg",
+          "webp": "assets/img/gallery/bar/004-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/bar/005-thumb.jpg",
+          "webp": "assets/img/gallery/bar/005-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/bar/005-full.jpg",
+          "webp": "assets/img/gallery/bar/005-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/bar/006-thumb.jpg",
+          "webp": "assets/img/gallery/bar/006-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/bar/006-full.jpg",
+          "webp": "assets/img/gallery/bar/006-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/bar/007-thumb.jpg",
+          "webp": "assets/img/gallery/bar/007-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/bar/007-full.jpg",
+          "webp": "assets/img/gallery/bar/007-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/bar/008-thumb.jpg",
+          "webp": "assets/img/gallery/bar/008-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/bar/008-full.jpg",
+          "webp": "assets/img/gallery/bar/008-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/bar/009-thumb.jpg",
+          "webp": "assets/img/gallery/bar/009-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/bar/009-full.jpg",
+          "webp": "assets/img/gallery/bar/009-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1456,
+          "jpg": "assets/img/gallery/bar/010-thumb.jpg",
+          "webp": "assets/img/gallery/bar/010-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2589,
+          "jpg": "assets/img/gallery/bar/010-full.jpg",
+          "webp": "assets/img/gallery/bar/010-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/bar/011-thumb.jpg",
+          "webp": "assets/img/gallery/bar/011-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/bar/011-full.jpg",
+          "webp": "assets/img/gallery/bar/011-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1339,
+          "jpg": "assets/img/gallery/bar/012-thumb.jpg",
+          "webp": "assets/img/gallery/bar/012-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2381,
+          "jpg": "assets/img/gallery/bar/012-full.jpg",
+          "webp": "assets/img/gallery/bar/012-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/bar/013-thumb.jpg",
+          "webp": "assets/img/gallery/bar/013-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/bar/013-full.jpg",
+          "webp": "assets/img/gallery/bar/013-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/bar/014-thumb.jpg",
+          "webp": "assets/img/gallery/bar/014-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/bar/014-full.jpg",
+          "webp": "assets/img/gallery/bar/014-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/bar/015-thumb.jpg",
+          "webp": "assets/img/gallery/bar/015-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/bar/015-full.jpg",
+          "webp": "assets/img/gallery/bar/015-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/bar/016-thumb.jpg",
+          "webp": "assets/img/gallery/bar/016-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/bar/016-full.jpg",
+          "webp": "assets/img/gallery/bar/016-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/bar/017-thumb.jpg",
+          "webp": "assets/img/gallery/bar/017-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/bar/017-full.jpg",
+          "webp": "assets/img/gallery/bar/017-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/bar/018-thumb.jpg",
+          "webp": "assets/img/gallery/bar/018-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1066,
+          "jpg": "assets/img/gallery/bar/018-full.jpg",
+          "webp": "assets/img/gallery/bar/018-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/bar/019-thumb.jpg",
+          "webp": "assets/img/gallery/bar/019-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/bar/019-full.jpg",
+          "webp": "assets/img/gallery/bar/019-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/bar/020-thumb.jpg",
+          "webp": "assets/img/gallery/bar/020-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1066,
+          "jpg": "assets/img/gallery/bar/020-full.jpg",
+          "webp": "assets/img/gallery/bar/020-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/bar/021-thumb.jpg",
+          "webp": "assets/img/gallery/bar/021-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/bar/021-full.jpg",
+          "webp": "assets/img/gallery/bar/021-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/bar/022-thumb.jpg",
+          "webp": "assets/img/gallery/bar/022-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/bar/022-full.jpg",
+          "webp": "assets/img/gallery/bar/022-full.webp"
+        }
+      }
+    ]
+  },
+  "beerpong": {
+    "label": "BEERPONG",
+    "photos": [
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/001-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/001-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/001-full.jpg",
+          "webp": "assets/img/gallery/beerpong/001-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/beerpong/002-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/002-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/beerpong/002-full.jpg",
+          "webp": "assets/img/gallery/beerpong/002-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/003-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/003-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/003-full.jpg",
+          "webp": "assets/img/gallery/beerpong/003-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/004-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/004-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/004-full.jpg",
+          "webp": "assets/img/gallery/beerpong/004-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/005-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/005-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/005-full.jpg",
+          "webp": "assets/img/gallery/beerpong/005-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/006-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/006-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/006-full.jpg",
+          "webp": "assets/img/gallery/beerpong/006-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/007-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/007-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/007-full.jpg",
+          "webp": "assets/img/gallery/beerpong/007-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/008-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/008-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/008-full.jpg",
+          "webp": "assets/img/gallery/beerpong/008-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/009-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/009-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/009-full.jpg",
+          "webp": "assets/img/gallery/beerpong/009-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/010-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/010-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/010-full.jpg",
+          "webp": "assets/img/gallery/beerpong/010-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/011-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/011-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/011-full.jpg",
+          "webp": "assets/img/gallery/beerpong/011-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/012-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/012-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/012-full.jpg",
+          "webp": "assets/img/gallery/beerpong/012-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/013-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/013-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/013-full.jpg",
+          "webp": "assets/img/gallery/beerpong/013-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/014-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/014-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/014-full.jpg",
+          "webp": "assets/img/gallery/beerpong/014-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/015-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/015-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/015-full.jpg",
+          "webp": "assets/img/gallery/beerpong/015-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/beerpong/016-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/016-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/beerpong/016-full.jpg",
+          "webp": "assets/img/gallery/beerpong/016-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/beerpong/017-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/017-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/beerpong/017-full.jpg",
+          "webp": "assets/img/gallery/beerpong/017-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/018-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/018-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/018-full.jpg",
+          "webp": "assets/img/gallery/beerpong/018-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/019-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/019-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/019-full.jpg",
+          "webp": "assets/img/gallery/beerpong/019-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/020-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/020-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/020-full.jpg",
+          "webp": "assets/img/gallery/beerpong/020-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/021-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/021-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/021-full.jpg",
+          "webp": "assets/img/gallery/beerpong/021-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/022-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/022-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/022-full.jpg",
+          "webp": "assets/img/gallery/beerpong/022-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/beerpong/023-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/023-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/beerpong/023-full.jpg",
+          "webp": "assets/img/gallery/beerpong/023-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/024-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/024-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/024-full.jpg",
+          "webp": "assets/img/gallery/beerpong/024-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/025-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/025-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/025-full.jpg",
+          "webp": "assets/img/gallery/beerpong/025-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/026-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/026-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/026-full.jpg",
+          "webp": "assets/img/gallery/beerpong/026-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/027-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/027-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/027-full.jpg",
+          "webp": "assets/img/gallery/beerpong/027-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/028-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/028-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/028-full.jpg",
+          "webp": "assets/img/gallery/beerpong/028-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/029-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/029-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/029-full.jpg",
+          "webp": "assets/img/gallery/beerpong/029-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/030-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/030-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/030-full.jpg",
+          "webp": "assets/img/gallery/beerpong/030-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/031-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/031-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/031-full.jpg",
+          "webp": "assets/img/gallery/beerpong/031-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/032-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/032-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/032-full.jpg",
+          "webp": "assets/img/gallery/beerpong/032-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/033-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/033-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/033-full.jpg",
+          "webp": "assets/img/gallery/beerpong/033-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/034-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/034-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/034-full.jpg",
+          "webp": "assets/img/gallery/beerpong/034-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/035-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/035-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/035-full.jpg",
+          "webp": "assets/img/gallery/beerpong/035-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/036-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/036-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/036-full.jpg",
+          "webp": "assets/img/gallery/beerpong/036-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/037-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/037-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/037-full.jpg",
+          "webp": "assets/img/gallery/beerpong/037-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/beerpong/038-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/038-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/beerpong/038-full.jpg",
+          "webp": "assets/img/gallery/beerpong/038-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/beerpong/039-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/039-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/beerpong/039-full.jpg",
+          "webp": "assets/img/gallery/beerpong/039-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/beerpong/040-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/040-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/beerpong/040-full.jpg",
+          "webp": "assets/img/gallery/beerpong/040-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/041-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/041-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/041-full.jpg",
+          "webp": "assets/img/gallery/beerpong/041-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/042-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/042-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/042-full.jpg",
+          "webp": "assets/img/gallery/beerpong/042-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/beerpong/043-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/043-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/beerpong/043-full.jpg",
+          "webp": "assets/img/gallery/beerpong/043-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/beerpong/044-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/044-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/beerpong/044-full.jpg",
+          "webp": "assets/img/gallery/beerpong/044-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/045-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/045-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/045-full.jpg",
+          "webp": "assets/img/gallery/beerpong/045-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/beerpong/046-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/046-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/beerpong/046-full.jpg",
+          "webp": "assets/img/gallery/beerpong/046-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/beerpong/047-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/047-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/beerpong/047-full.jpg",
+          "webp": "assets/img/gallery/beerpong/047-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/048-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/048-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/048-full.jpg",
+          "webp": "assets/img/gallery/beerpong/048-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/beerpong/049-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/049-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/beerpong/049-full.jpg",
+          "webp": "assets/img/gallery/beerpong/049-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/beerpong/050-thumb.jpg",
+          "webp": "assets/img/gallery/beerpong/050-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/beerpong/050-full.jpg",
+          "webp": "assets/img/gallery/beerpong/050-full.webp"
+        }
+      }
+    ]
+  },
+  "drinky": {
+    "label": "DRINKY",
+    "photos": [
+      {
+        "thumb": {
+          "w": 900,
+          "h": 578,
+          "jpg": "assets/img/gallery/drinky/001-thumb.jpg",
+          "webp": "assets/img/gallery/drinky/001-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1028,
+          "jpg": "assets/img/gallery/drinky/001-full.jpg",
+          "webp": "assets/img/gallery/drinky/001-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/drinky/002-thumb.jpg",
+          "webp": "assets/img/gallery/drinky/002-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/drinky/002-full.jpg",
+          "webp": "assets/img/gallery/drinky/002-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/drinky/003-thumb.jpg",
+          "webp": "assets/img/gallery/drinky/003-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/drinky/003-full.jpg",
+          "webp": "assets/img/gallery/drinky/003-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/drinky/004-thumb.jpg",
+          "webp": "assets/img/gallery/drinky/004-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/drinky/004-full.jpg",
+          "webp": "assets/img/gallery/drinky/004-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/drinky/005-thumb.jpg",
+          "webp": "assets/img/gallery/drinky/005-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/drinky/005-full.jpg",
+          "webp": "assets/img/gallery/drinky/005-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/drinky/006-thumb.jpg",
+          "webp": "assets/img/gallery/drinky/006-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/drinky/006-full.jpg",
+          "webp": "assets/img/gallery/drinky/006-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/drinky/007-thumb.jpg",
+          "webp": "assets/img/gallery/drinky/007-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/drinky/007-full.jpg",
+          "webp": "assets/img/gallery/drinky/007-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1245,
+          "jpg": "assets/img/gallery/drinky/008-thumb.jpg",
+          "webp": "assets/img/gallery/drinky/008-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2214,
+          "jpg": "assets/img/gallery/drinky/008-full.jpg",
+          "webp": "assets/img/gallery/drinky/008-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/drinky/009-thumb.jpg",
+          "webp": "assets/img/gallery/drinky/009-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/drinky/009-full.jpg",
+          "webp": "assets/img/gallery/drinky/009-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/drinky/010-thumb.jpg",
+          "webp": "assets/img/gallery/drinky/010-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/drinky/010-full.jpg",
+          "webp": "assets/img/gallery/drinky/010-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/drinky/011-thumb.jpg",
+          "webp": "assets/img/gallery/drinky/011-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/drinky/011-full.jpg",
+          "webp": "assets/img/gallery/drinky/011-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/drinky/012-thumb.jpg",
+          "webp": "assets/img/gallery/drinky/012-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/drinky/012-full.jpg",
+          "webp": "assets/img/gallery/drinky/012-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/drinky/013-thumb.jpg",
+          "webp": "assets/img/gallery/drinky/013-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/drinky/013-full.jpg",
+          "webp": "assets/img/gallery/drinky/013-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/drinky/014-thumb.jpg",
+          "webp": "assets/img/gallery/drinky/014-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/drinky/014-full.jpg",
+          "webp": "assets/img/gallery/drinky/014-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/drinky/015-thumb.jpg",
+          "webp": "assets/img/gallery/drinky/015-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/drinky/015-full.jpg",
+          "webp": "assets/img/gallery/drinky/015-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/drinky/016-thumb.jpg",
+          "webp": "assets/img/gallery/drinky/016-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2401,
+          "jpg": "assets/img/gallery/drinky/016-full.jpg",
+          "webp": "assets/img/gallery/drinky/016-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/drinky/017-thumb.jpg",
+          "webp": "assets/img/gallery/drinky/017-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/drinky/017-full.jpg",
+          "webp": "assets/img/gallery/drinky/017-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/drinky/018-thumb.jpg",
+          "webp": "assets/img/gallery/drinky/018-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/drinky/018-full.jpg",
+          "webp": "assets/img/gallery/drinky/018-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/drinky/019-thumb.jpg",
+          "webp": "assets/img/gallery/drinky/019-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/drinky/019-full.jpg",
+          "webp": "assets/img/gallery/drinky/019-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/drinky/020-thumb.jpg",
+          "webp": "assets/img/gallery/drinky/020-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/drinky/020-full.jpg",
+          "webp": "assets/img/gallery/drinky/020-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/drinky/021-thumb.jpg",
+          "webp": "assets/img/gallery/drinky/021-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/drinky/021-full.jpg",
+          "webp": "assets/img/gallery/drinky/021-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1255,
+          "jpg": "assets/img/gallery/drinky/022-thumb.jpg",
+          "webp": "assets/img/gallery/drinky/022-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2232,
+          "jpg": "assets/img/gallery/drinky/022-full.jpg",
+          "webp": "assets/img/gallery/drinky/022-full.webp"
+        }
+      }
+    ]
+  },
+  "koncerty": {
+    "label": "KONCERTY",
+    "photos": [
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/koncerty/001-thumb.jpg",
+          "webp": "assets/img/gallery/koncerty/001-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/koncerty/001-full.jpg",
+          "webp": "assets/img/gallery/koncerty/001-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/koncerty/002-thumb.jpg",
+          "webp": "assets/img/gallery/koncerty/002-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/koncerty/002-full.jpg",
+          "webp": "assets/img/gallery/koncerty/002-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/koncerty/003-thumb.jpg",
+          "webp": "assets/img/gallery/koncerty/003-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/koncerty/003-full.jpg",
+          "webp": "assets/img/gallery/koncerty/003-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/koncerty/004-thumb.jpg",
+          "webp": "assets/img/gallery/koncerty/004-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/koncerty/004-full.jpg",
+          "webp": "assets/img/gallery/koncerty/004-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/koncerty/005-thumb.jpg",
+          "webp": "assets/img/gallery/koncerty/005-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/koncerty/005-full.jpg",
+          "webp": "assets/img/gallery/koncerty/005-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/koncerty/006-thumb.jpg",
+          "webp": "assets/img/gallery/koncerty/006-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/koncerty/006-full.jpg",
+          "webp": "assets/img/gallery/koncerty/006-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/koncerty/007-thumb.jpg",
+          "webp": "assets/img/gallery/koncerty/007-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/koncerty/007-full.jpg",
+          "webp": "assets/img/gallery/koncerty/007-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/koncerty/008-thumb.jpg",
+          "webp": "assets/img/gallery/koncerty/008-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/koncerty/008-full.jpg",
+          "webp": "assets/img/gallery/koncerty/008-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/koncerty/009-thumb.jpg",
+          "webp": "assets/img/gallery/koncerty/009-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/koncerty/009-full.jpg",
+          "webp": "assets/img/gallery/koncerty/009-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/koncerty/010-thumb.jpg",
+          "webp": "assets/img/gallery/koncerty/010-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/koncerty/010-full.jpg",
+          "webp": "assets/img/gallery/koncerty/010-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/koncerty/011-thumb.jpg",
+          "webp": "assets/img/gallery/koncerty/011-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/koncerty/011-full.jpg",
+          "webp": "assets/img/gallery/koncerty/011-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/koncerty/012-thumb.jpg",
+          "webp": "assets/img/gallery/koncerty/012-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/koncerty/012-full.jpg",
+          "webp": "assets/img/gallery/koncerty/012-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/koncerty/013-thumb.jpg",
+          "webp": "assets/img/gallery/koncerty/013-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/koncerty/013-full.jpg",
+          "webp": "assets/img/gallery/koncerty/013-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/koncerty/014-thumb.jpg",
+          "webp": "assets/img/gallery/koncerty/014-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/koncerty/014-full.jpg",
+          "webp": "assets/img/gallery/koncerty/014-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/koncerty/015-thumb.jpg",
+          "webp": "assets/img/gallery/koncerty/015-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/koncerty/015-full.jpg",
+          "webp": "assets/img/gallery/koncerty/015-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/koncerty/016-thumb.jpg",
+          "webp": "assets/img/gallery/koncerty/016-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/koncerty/016-full.jpg",
+          "webp": "assets/img/gallery/koncerty/016-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1600,
+          "jpg": "assets/img/gallery/koncerty/017-thumb.jpg",
+          "webp": "assets/img/gallery/koncerty/017-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2844,
+          "jpg": "assets/img/gallery/koncerty/017-full.jpg",
+          "webp": "assets/img/gallery/koncerty/017-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/koncerty/018-thumb.jpg",
+          "webp": "assets/img/gallery/koncerty/018-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/koncerty/018-full.jpg",
+          "webp": "assets/img/gallery/koncerty/018-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/koncerty/019-thumb.jpg",
+          "webp": "assets/img/gallery/koncerty/019-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/koncerty/019-full.jpg",
+          "webp": "assets/img/gallery/koncerty/019-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/koncerty/020-thumb.jpg",
+          "webp": "assets/img/gallery/koncerty/020-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/koncerty/020-full.jpg",
+          "webp": "assets/img/gallery/koncerty/020-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/koncerty/021-thumb.jpg",
+          "webp": "assets/img/gallery/koncerty/021-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/koncerty/021-full.jpg",
+          "webp": "assets/img/gallery/koncerty/021-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/koncerty/022-thumb.jpg",
+          "webp": "assets/img/gallery/koncerty/022-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/koncerty/022-full.jpg",
+          "webp": "assets/img/gallery/koncerty/022-full.webp"
+        }
+      }
+    ]
+  },
+  "turbo-hodina": {
+    "label": "TURBO HODINA",
+    "photos": [
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/turbo-hodina/001-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/001-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/turbo-hodina/001-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/001-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/turbo-hodina/002-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/002-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/turbo-hodina/002-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/002-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/turbo-hodina/003-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/003-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/turbo-hodina/003-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/003-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/turbo-hodina/004-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/004-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/turbo-hodina/004-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/004-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/turbo-hodina/005-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/005-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/turbo-hodina/005-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/005-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/turbo-hodina/006-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/006-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/turbo-hodina/006-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/006-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/turbo-hodina/007-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/007-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/turbo-hodina/007-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/007-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/turbo-hodina/008-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/008-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/turbo-hodina/008-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/008-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/turbo-hodina/009-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/009-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/turbo-hodina/009-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/009-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/turbo-hodina/010-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/010-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/turbo-hodina/010-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/010-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/turbo-hodina/011-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/011-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/turbo-hodina/011-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/011-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/turbo-hodina/012-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/012-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/turbo-hodina/012-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/012-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/turbo-hodina/013-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/013-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/turbo-hodina/013-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/013-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/turbo-hodina/014-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/014-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/turbo-hodina/014-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/014-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/turbo-hodina/015-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/015-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/turbo-hodina/015-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/015-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/turbo-hodina/016-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/016-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/turbo-hodina/016-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/016-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/turbo-hodina/017-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/017-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/turbo-hodina/017-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/017-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/turbo-hodina/018-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/018-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/turbo-hodina/018-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/018-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/turbo-hodina/019-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/019-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/turbo-hodina/019-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/019-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/turbo-hodina/020-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/020-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/turbo-hodina/020-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/020-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/turbo-hodina/021-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/021-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/turbo-hodina/021-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/021-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/turbo-hodina/022-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/022-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/turbo-hodina/022-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/022-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/turbo-hodina/023-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/023-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/turbo-hodina/023-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/023-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/turbo-hodina/024-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/024-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/turbo-hodina/024-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/024-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/turbo-hodina/025-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/025-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/turbo-hodina/025-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/025-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/turbo-hodina/026-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/026-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/turbo-hodina/026-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/026-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/turbo-hodina/027-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/027-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/turbo-hodina/027-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/027-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/turbo-hodina/028-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/028-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/turbo-hodina/028-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/028-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/turbo-hodina/029-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/029-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/turbo-hodina/029-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/029-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/turbo-hodina/030-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/030-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/turbo-hodina/030-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/030-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/turbo-hodina/031-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/031-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/turbo-hodina/031-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/031-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/turbo-hodina/032-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/032-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/turbo-hodina/032-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/032-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/turbo-hodina/033-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/033-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/turbo-hodina/033-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/033-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/turbo-hodina/034-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/034-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/turbo-hodina/034-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/034-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/turbo-hodina/035-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/035-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/turbo-hodina/035-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/035-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/turbo-hodina/036-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/036-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/turbo-hodina/036-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/036-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/turbo-hodina/037-thumb.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/037-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/turbo-hodina/037-full.jpg",
+          "webp": "assets/img/gallery/turbo-hodina/037-full.webp"
+        }
+      }
+    ]
+  },
+  "vecer-na-ginu": {
+    "label": "VEČER NA GINU",
+    "photos": [
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/vecer-na-ginu/001-thumb.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/001-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/vecer-na-ginu/001-full.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/001-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/vecer-na-ginu/002-thumb.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/002-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/vecer-na-ginu/002-full.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/002-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/vecer-na-ginu/003-thumb.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/003-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/vecer-na-ginu/003-full.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/003-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/vecer-na-ginu/004-thumb.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/004-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/vecer-na-ginu/004-full.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/004-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/vecer-na-ginu/005-thumb.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/005-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/vecer-na-ginu/005-full.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/005-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/vecer-na-ginu/006-thumb.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/006-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/vecer-na-ginu/006-full.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/006-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/vecer-na-ginu/007-thumb.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/007-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/vecer-na-ginu/007-full.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/007-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/vecer-na-ginu/008-thumb.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/008-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/vecer-na-ginu/008-full.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/008-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/vecer-na-ginu/009-thumb.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/009-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/vecer-na-ginu/009-full.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/009-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/vecer-na-ginu/010-thumb.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/010-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/vecer-na-ginu/010-full.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/010-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/vecer-na-ginu/011-thumb.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/011-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/vecer-na-ginu/011-full.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/011-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/vecer-na-ginu/012-thumb.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/012-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/vecer-na-ginu/012-full.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/012-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/vecer-na-ginu/013-thumb.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/013-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/vecer-na-ginu/013-full.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/013-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/vecer-na-ginu/014-thumb.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/014-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/vecer-na-ginu/014-full.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/014-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/vecer-na-ginu/015-thumb.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/015-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/vecer-na-ginu/015-full.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/015-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/vecer-na-ginu/016-thumb.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/016-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/vecer-na-ginu/016-full.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/016-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/vecer-na-ginu/017-thumb.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/017-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 2400,
+          "jpg": "assets/img/gallery/vecer-na-ginu/017-full.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/017-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/vecer-na-ginu/018-thumb.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/018-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/vecer-na-ginu/018-full.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/018-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/vecer-na-ginu/019-thumb.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/019-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/vecer-na-ginu/019-full.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/019-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/vecer-na-ginu/020-thumb.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/020-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/vecer-na-ginu/020-full.jpg",
+          "webp": "assets/img/gallery/vecer-na-ginu/020-full.webp"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1942 @@
+{
+  "promo": {
+    "id": "turbo",
+    "label": {
+      "cs": "Turbo Hodina",
+      "en": "Turbo Hour"
+    },
+    "intro": {
+      "cs": "Zvýhodněné ceny na vybrané drinky — sledujte, kdy u nás běží Turbo Hodina.",
+      "en": "Discounted prices on selected drinks — check our Events page for when Turbo Hodina runs."
+    },
+    "groups": [
+      {
+        "label": {
+          "cs": "Pivo",
+          "en": "Beer"
+        },
+        "items": [
+          {
+            "name": "Polička 11 %",
+            "price": "25 Kč"
+          }
+        ]
+      },
+      {
+        "label": {
+          "cs": "Koktejly",
+          "en": "Cocktails"
+        },
+        "items": [
+          {
+            "name": "Hugo Spritz",
+            "price": "30 Kč"
+          },
+          {
+            "name": "Cuba Libre",
+            "price": "30 Kč"
+          },
+          {
+            "name": "Vodka Juice",
+            "price": "30 Kč"
+          },
+          {
+            "name": "Aperitivo Spritz",
+            "price": "30 Kč"
+          },
+          {
+            "name": "Skinny Bitch",
+            "price": "30 Kč"
+          },
+          {
+            "name": "Greenall's Gin Tonic",
+            "price": "30 Kč",
+            "note": {
+              "cs": "+ Blueberry / Wildberry",
+              "en": "+ Blueberry / Wildberry"
+            }
+          }
+        ]
+      },
+      {
+        "label": {
+          "cs": "Whisky",
+          "en": "Whisky"
+        },
+        "items": [
+          {
+            "name": "Shanky's Whip (Pístros)",
+            "price": "40 Kč"
+          },
+          {
+            "name": "Bushmills Original",
+            "price": "45 Kč"
+          },
+          {
+            "name": "Jameson",
+            "price": "45 Kč"
+          },
+          {
+            "name": "Tullamore Dew / Honey",
+            "price": "45 Kč"
+          },
+          {
+            "name": "Jack Daniel's Black / Honey",
+            "price": "45 Kč"
+          },
+          {
+            "name": "Johnnie Walker Red",
+            "price": "40 Kč"
+          }
+        ]
+      },
+      {
+        "label": {
+          "cs": "Tequila",
+          "en": "Tequila"
+        },
+        "items": [
+          {
+            "name": "El Jimador Blanco / Reposado",
+            "price": "45 Kč"
+          }
+        ]
+      },
+      {
+        "label": {
+          "cs": "Nealko",
+          "en": "Soft Drinks"
+        },
+        "items": [
+          {
+            "name": "Coca-Cola",
+            "price": "10 Kč"
+          },
+          {
+            "name": "Tonic",
+            "price": "10 Kč"
+          },
+          {
+            "name": "Pomerančový džus",
+            "price": "15 Kč"
+          },
+          {
+            "name": "Redbull",
+            "price": "45 Kč"
+          }
+        ]
+      },
+      {
+        "label": {
+          "cs": "Rum",
+          "en": "Rum"
+        },
+        "items": [
+          {
+            "name": "Abuelo 5 y.o.",
+            "price": "35 Kč"
+          },
+          {
+            "name": "El Clásico Elixir",
+            "price": "35 Kč"
+          },
+          {
+            "name": "Legendario Elixir",
+            "price": "35 Kč"
+          }
+        ]
+      },
+      {
+        "label": {
+          "cs": "Vodka",
+          "en": "Vodka"
+        },
+        "items": [
+          {
+            "name": "Finlandia",
+            "price": "28 Kč"
+          },
+          {
+            "name": "Nemiroff",
+            "price": "28 Kč"
+          },
+          {
+            "name": "Seven",
+            "price": "28 Kč"
+          }
+        ]
+      },
+      {
+        "label": {
+          "cs": "Ostatní",
+          "en": "Other"
+        },
+        "items": [
+          {
+            "name": "Zelená",
+            "price": "25 Kč"
+          },
+          {
+            "name": "Griotka",
+            "price": "25 Kč"
+          },
+          {
+            "name": "Jägermeister",
+            "price": "35 Kč"
+          }
+        ]
+      }
+    ]
+  },
+  "groups": [
+    {
+      "id": "top-card",
+      "label": {
+        "cs": "Top Card",
+        "en": "Top Card"
+      },
+      "note": {
+        "cs": "Ceny lihovin jsou uvedeny pro odlivky 0,05 l  /  0,025 l, koktejly 0,04 l.",
+        "en": "Spirits are priced for 0.05 l  /  0.025 l pours; cocktails 0.04 l."
+      },
+      "subgroups": [
+        {
+          "label": {
+            "cs": "Rumy",
+            "en": "Rum"
+          },
+          "items": [
+            {
+              "name": "El Clásico Elixir",
+              "small": 85,
+              "large": 45
+            },
+            {
+              "name": "El Clásico XO",
+              "small": 110,
+              "large": 55
+            },
+            {
+              "name": "Pyrat XO Reserve",
+              "small": 130,
+              "large": 65
+            },
+            {
+              "name": "Dos Maderas PX 5+5",
+              "small": 160,
+              "large": 80
+            },
+            {
+              "name": "Pearl Of Mauritius",
+              "small": 190,
+              "large": 100
+            }
+          ]
+        },
+        {
+          "label": {
+            "cs": "Whisky",
+            "en": "Whisky"
+          },
+          "items": [
+            {
+              "name": "Pístros — Whiskey Liqueur",
+              "small": 85,
+              "large": 45
+            },
+            {
+              "name": "Jameson",
+              "small": 85,
+              "large": 45
+            },
+            {
+              "name": "Tullamore Dew / Honey",
+              "small": 85,
+              "large": 45
+            },
+            {
+              "name": "Johnnie Walker Red Label",
+              "small": 85,
+              "large": 45
+            },
+            {
+              "name": "Jack Daniel's",
+              "small": 99,
+              "large": 50,
+              "note": {
+                "cs": "Honey, Fire, Apple",
+                "en": "Honey, Fire, Apple"
+              }
+            },
+            {
+              "name": "Chivas Regal 12",
+              "small": 99,
+              "large": 50
+            }
+          ]
+        },
+        {
+          "label": {
+            "cs": "Koktejly (0,04 l)",
+            "en": "Cocktails (0.04 l)"
+          },
+          "items": [
+            {
+              "name": "Hugo Spritz",
+              "price": "119 Kč"
+            },
+            {
+              "name": "Cuba Libre",
+              "price": "119 Kč"
+            },
+            {
+              "name": "Vodka Juice",
+              "price": "119 Kč"
+            },
+            {
+              "name": "Aperitivo Spritz",
+              "price": "119 Kč"
+            },
+            {
+              "name": "Greenall's Gin Tonic",
+              "price": "119 Kč",
+              "note": {
+                "cs": "+ Blueberry, Wildberry",
+                "en": "+ Blueberry, Wildberry"
+              }
+            },
+            {
+              "name": "Skinny Bitch",
+              "price": "119 Kč"
+            }
+          ]
+        },
+        {
+          "label": {
+            "cs": "Vodka",
+            "en": "Vodka"
+          },
+          "items": [
+            {
+              "name": "Stoli",
+              "small": 85,
+              "large": 45
+            },
+            {
+              "name": "Absolut",
+              "small": 85,
+              "large": 45
+            },
+            {
+              "name": "Amundsen",
+              "small": 85,
+              "large": 45
+            },
+            {
+              "name": "Finlandia",
+              "small": 85,
+              "large": 45
+            },
+            {
+              "name": "Nemiroff De Luxe Barrel",
+              "small": 85,
+              "large": 45
+            },
+            {
+              "name": "Zubrowka",
+              "small": 70,
+              "large": 35
+            }
+          ]
+        },
+        {
+          "label": {
+            "cs": "Pálenky",
+            "en": "Fruit Brandies"
+          },
+          "items": [
+            {
+              "name": "Baron Hildprandt",
+              "small": 130,
+              "large": 65,
+              "note": {
+                "cs": "Malina 40 % · Hruška 40 % · Třešeň 40 % · Meruňka 40 % · Slivovice 50 % · medová hruška 30 % · hruškovice 50 %",
+                "en": "Raspberry 40% · Pear 40% · Cherry 40% · Apricot 40% · Slivovice 50% · Honey Pear 30% · Pear Brandy 50%"
+              }
+            }
+          ]
+        },
+        {
+          "label": {
+            "cs": "Pivo",
+            "en": "Beer"
+          },
+          "items": [
+            {
+              "name": "Guinness",
+              "price": "110 Kč",
+              "note": {
+                "cs": "0,4 l",
+                "en": "0.4 l"
+              }
+            },
+            {
+              "name": "Magner's Original Cider",
+              "price": "110 Kč",
+              "note": {
+                "cs": "0,5 l",
+                "en": "0.5 l"
+              }
+            },
+            {
+              "name": "Hoegaarden",
+              "price": "85 Kč",
+              "note": {
+                "cs": "0,5 l",
+                "en": "0.5 l"
+              }
+            },
+            {
+              "name": "Plzeň 12 %",
+              "price": "68 Kč",
+              "note": {
+                "cs": "0,5 l",
+                "en": "0.5 l"
+              }
+            },
+            {
+              "name": "Radegast 12 %",
+              "price": "68 Kč",
+              "note": {
+                "cs": "0,5 l",
+                "en": "0.5 l"
+              }
+            },
+            {
+              "name": "Polička 11 %",
+              "price": "55 Kč",
+              "note": {
+                "cs": "0,5 l",
+                "en": "0.5 l"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drink",
+      "label": {
+        "cs": "Drink",
+        "en": "Drink"
+      },
+      "subgroups": [
+        {
+          "label": null,
+          "items": [
+            {
+              "name": "Chilli Gin & Tonic",
+              "desc": {
+                "cs": "Opihr gin, Thomas Henry Tonic Water, chilli, barevný pepř, led",
+                "en": "Opihr gin, Thomas Henry tonic water, chilli, mixed peppercorn, ice"
+              },
+              "price": "145 Kč"
+            },
+            {
+              "name": "Shanky's Tonic",
+              "desc": {
+                "cs": "Shanky's Whip, Thomas Henry Tonic Water, citrusy, led",
+                "en": "Shanky's Whip, Thomas Henry tonic water, citrus, ice"
+              },
+              "price": "145 Kč"
+            },
+            {
+              "name": "Mango Marakuja Gin & Tonic",
+              "desc": {
+                "cs": "June gin Mango Marakuja, Thomas Henry Tonic, citrusy, led",
+                "en": "June Mango Passionfruit gin, Thomas Henry tonic, citrus, ice"
+              },
+              "price": "145 Kč"
+            },
+            {
+              "name": "Juicy Gin & Tonic",
+              "desc": {
+                "cs": "G'Vine gin, Thomas Henry Tonic Water, hroznové víno, led",
+                "en": "G'Vine gin, Thomas Henry tonic water, grapes, ice"
+              },
+              "price": "145 Kč"
+            },
+            {
+              "name": "June Spritz",
+              "desc": {
+                "cs": "June Peach, Thomas Henry Pink Grapefruit, pomeranč, led",
+                "en": "June Peach, Thomas Henry pink grapefruit, orange, ice"
+              },
+              "price": "145 Kč"
+            },
+            {
+              "name": "French & Spicy",
+              "desc": {
+                "cs": "June Pear, Thomas Henry Spicy Ginger Beer, limeta, led",
+                "en": "June Pear, Thomas Henry spicy ginger beer, lime, ice"
+              },
+              "price": "145 Kč"
+            },
+            {
+              "name": "Gin & Tonic",
+              "desc": {
+                "cs": "Klasik",
+                "en": "Classic"
+              },
+              "price": "115 Kč"
+            },
+            {
+              "name": "Pink Gin & Tonic",
+              "desc": {
+                "cs": "Klasik s růžovým gin tonikem",
+                "en": "Classic with pink tonic"
+              },
+              "price": "135 Kč"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cocktails",
+      "label": {
+        "cs": "Koktejly",
+        "en": "Cocktails"
+      },
+      "subgroups": [
+        {
+          "label": null,
+          "items": [
+            {
+              "name": "Painkiller",
+              "desc": {
+                "cs": "Pusser's Gunpowder Proof, pomeranč, ananas, kokosový sirup, smetana",
+                "en": "Pusser's Gunpowder Proof, orange, pineapple, coconut syrup, cream"
+              },
+              "price": "210 Kč"
+            },
+            {
+              "name": "Hemingway Daiquiri",
+              "desc": {
+                "cs": "Flor de Caña, Maraschino, grep, limeta",
+                "en": "Flor de Caña, Maraschino, grapefruit, lime"
+              },
+              "price": "126 Kč"
+            },
+            {
+              "name": "Espresso Martini",
+              "desc": {
+                "cs": "Stolichnaya vodka, Kahlua, espresso, cukr",
+                "en": "Stolichnaya vodka, Kahlua, espresso, sugar"
+              },
+              "price": "214 Kč"
+            },
+            {
+              "name": "Orange & Chilli Martini",
+              "desc": {
+                "cs": "Stolichnaya vodka, pomerančový juice, marakuja, citrón, chilli",
+                "en": "Stolichnaya vodka, orange juice, passionfruit, lemon, chilli"
+              },
+              "price": "130 Kč"
+            },
+            {
+              "name": "Tommy's Margarita",
+              "desc": {
+                "cs": "El Jimador Reposado, limeta, agáve sirup",
+                "en": "El Jimador Reposado, lime, agave syrup"
+              },
+              "price": "165 Kč"
+            },
+            {
+              "name": "Peach Belini",
+              "desc": {
+                "cs": "Prosecco, broskvový likér, broskev",
+                "en": "Prosecco, peach liqueur, peach"
+              },
+              "price": "124 Kč"
+            },
+            {
+              "name": "Aperol Spritz",
+              "desc": {
+                "cs": "Aperol, Prosecco, soda",
+                "en": "Aperol, Prosecco, soda"
+              },
+              "price": "135 Kč"
+            },
+            {
+              "name": "Long Island Ice Tea",
+              "desc": {
+                "cs": "Flor de Caña, Stolichnaya vodka, El Jimador Tequila, Greenall's Gin, Cointreau, limeta, Coca-Cola",
+                "en": "Flor de Caña, Stolichnaya vodka, El Jimador tequila, Greenall's gin, Cointreau, lime, Coca-Cola"
+              },
+              "price": "280 Kč"
+            },
+            {
+              "name": "Breakfast Martini",
+              "desc": {
+                "cs": "Tanqueray, Cointreau, citrón, pomerančová marmeláda",
+                "en": "Tanqueray, Cointreau, lemon, orange marmalade"
+              },
+              "price": "170 Kč"
+            },
+            {
+              "name": "Clover Club",
+              "desc": {
+                "cs": "Greenall's Gin, Maraschino, malina, bílek, citrón",
+                "en": "Greenall's gin, Maraschino, raspberry, egg white, lemon"
+              },
+              "price": "168 Kč"
+            },
+            {
+              "name": "Martinez",
+              "desc": {
+                "cs": "Tanqueray 10, Punt e Mes, Maraschino, Angostura bitters",
+                "en": "Tanqueray 10, Punt e Mes, Maraschino, Angostura bitters"
+              },
+              "price": "253 Kč"
+            },
+            {
+              "name": "Negroni",
+              "desc": {
+                "cs": "Tanqueray, Campari, Punt e Mes",
+                "en": "Tanqueray, Campari, Punt e Mes"
+              },
+              "price": "176 Kč"
+            },
+            {
+              "name": "The Gardener",
+              "desc": {
+                "cs": "Greenall's Gin, bezový sirup, okurka, citrón, Tonic",
+                "en": "Greenall's gin, elderflower syrup, cucumber, lemon, tonic"
+              },
+              "price": "150 Kč"
+            },
+            {
+              "name": "Blood and Sand",
+              "desc": {
+                "cs": "Chivas Regal 12, Cherry Heering, Punt e Mes, pomeranč",
+                "en": "Chivas Regal 12, Cherry Heering, Punt e Mes, orange"
+              },
+              "price": "200 Kč"
+            },
+            {
+              "name": "Boulevardier",
+              "desc": {
+                "cs": "Talisker 10, Antica Formula, Campari",
+                "en": "Talisker 10, Antica Formula, Campari"
+              },
+              "price": "310 Kč"
+            },
+            {
+              "name": "Manhattan",
+              "desc": {
+                "cs": "Wild Turkey 81, Punt e Mes, Angostura bitters",
+                "en": "Wild Turkey 81, Punt e Mes, Angostura bitters"
+              },
+              "price": "218 Kč"
+            },
+            {
+              "name": "Old Fashioned",
+              "desc": {
+                "cs": "Woodford Reserve, Angostura bitters, třtinový cukr",
+                "en": "Woodford Reserve, Angostura bitters, cane sugar"
+              },
+              "price": "250 Kč"
+            },
+            {
+              "name": "Whisky Sour",
+              "desc": {
+                "cs": "Maker's Mark, citrón, vaječný bílek, cukr",
+                "en": "Maker's Mark, lemon, egg white, sugar"
+              },
+              "price": "190 Kč"
+            },
+            {
+              "name": "Cabin Bwoy",
+              "desc": {
+                "cs": "Flor de Caña, mandarinka, limeta, cukr",
+                "en": "Flor de Caña, tangerine, lime, sugar"
+              },
+              "price": "140 Kč"
+            },
+            {
+              "name": "Dark 'n' Stormy",
+              "desc": {
+                "cs": "Goslings rum, limeta, ginger beer, Angostura bitters",
+                "en": "Goslings rum, lime, ginger beer, Angostura bitters"
+              },
+              "price": "195 Kč"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rum",
+      "label": {
+        "cs": "Rum",
+        "en": "Rum"
+      },
+      "note": {
+        "cs": "Ceny lihovin jsou uvedeny pro odlivky 0,02 l  /  0,04 l.",
+        "en": "Spirits are priced for 0.02 l  /  0.04 l pours."
+      },
+      "subgroups": [
+        {
+          "label": null,
+          "items": [
+            {
+              "name": "Abuelo 5 y.o.",
+              "small": 45,
+              "large": 90
+            },
+            {
+              "name": "Abuelo 7 y.o.",
+              "small": 60,
+              "large": 120
+            },
+            {
+              "name": "Abuelo 12 y.o.",
+              "small": 80,
+              "large": 160
+            },
+            {
+              "name": "Abuelo 12y Two Oaks",
+              "small": 95,
+              "large": 190
+            },
+            {
+              "name": "Abuelo 15y",
+              "small": 125,
+              "large": 250
+            },
+            {
+              "name": "A.H. Riise",
+              "small": 95,
+              "large": 190
+            },
+            {
+              "name": "Appleton Estate 12 y.o. Rare",
+              "small": 80,
+              "large": 160
+            },
+            {
+              "name": "Barceló Blanco",
+              "small": 45,
+              "large": 90
+            },
+            {
+              "name": "Barceló Gran Añejo",
+              "small": 50,
+              "large": 100
+            },
+            {
+              "name": "Bumbu Original",
+              "small": 80,
+              "large": 160
+            },
+            {
+              "name": "Bumbu Black XO",
+              "small": 80,
+              "large": 160
+            },
+            {
+              "name": "Bumbu Cream White",
+              "small": 65,
+              "large": 130
+            },
+            {
+              "name": "Captain Morgan Spiced Gold Original",
+              "small": 40,
+              "large": 80
+            },
+            {
+              "name": "Diplomático Reserva Exclusiva",
+              "small": 80,
+              "large": 160
+            },
+            {
+              "name": "Dos Maderas 5+5",
+              "small": 80,
+              "large": 160
+            },
+            {
+              "name": "Don Papa 7 y.o.",
+              "small": 95,
+              "large": 190
+            },
+            {
+              "name": "Don Papa Masskara",
+              "small": 95,
+              "large": 190
+            },
+            {
+              "name": "Don Papa Baroko",
+              "small": 95,
+              "large": 190
+            },
+            {
+              "name": "Don Q 151",
+              "small": 80,
+              "large": 160
+            },
+            {
+              "name": "Duppy Share",
+              "small": 65,
+              "large": 130
+            },
+            {
+              "name": "Duppy Share Spiced",
+              "small": 70,
+              "large": 140
+            },
+            {
+              "name": "El Clásico XO",
+              "small": 50,
+              "large": 100
+            },
+            {
+              "name": "El Clásico Elixir",
+              "small": 40,
+              "large": 80
+            },
+            {
+              "name": "El Dorado 12 y.o.",
+              "small": 80,
+              "large": 160
+            },
+            {
+              "name": "Espero Coconut & Rum",
+              "small": 65,
+              "large": 130
+            },
+            {
+              "name": "Flor de Caña Dry 4 y.o.",
+              "small": 35,
+              "large": 70
+            },
+            {
+              "name": "Flor de Caña 12 y.o.",
+              "small": 80,
+              "large": 160
+            },
+            {
+              "name": "Flor de Caña 18 y.o.",
+              "small": 95,
+              "large": 190
+            },
+            {
+              "name": "Flor de Caña 25 y.o.",
+              "small": 240,
+              "large": 480
+            },
+            {
+              "name": "Goslings Black Seal",
+              "small": 65,
+              "large": 130
+            },
+            {
+              "name": "Kraken Black Spiced",
+              "small": 60,
+              "large": 120
+            },
+            {
+              "name": "La Hechicera",
+              "small": 95,
+              "large": 190
+            },
+            {
+              "name": "Legendario Elixir",
+              "small": 45,
+              "large": 90
+            },
+            {
+              "name": "Matusalem Gran Reserva 15 y.o.",
+              "small": 65,
+              "large": 130
+            },
+            {
+              "name": "Mount Gay Black Barrel",
+              "small": 95,
+              "large": 190
+            },
+            {
+              "name": "Pampero Especial",
+              "small": 45,
+              "large": 90
+            },
+            {
+              "name": "Pearl Of Mauritius",
+              "small": 95,
+              "large": 190
+            },
+            {
+              "name": "Plantation Grande Reserve",
+              "small": 60,
+              "large": 120
+            },
+            {
+              "name": "Plantation Pineapple",
+              "small": 80,
+              "large": 160
+            },
+            {
+              "name": "Plantation 20th XO",
+              "small": 95,
+              "large": 190
+            },
+            {
+              "name": "Puntacana Club Black Rum",
+              "small": 80,
+              "large": 160
+            },
+            {
+              "name": "Puntacana Espléndido",
+              "small": 80,
+              "large": 160
+            },
+            {
+              "name": "Puntacana Muy Viejo",
+              "small": 50,
+              "large": 100
+            },
+            {
+              "name": "Puntacana Tesoro",
+              "small": 95,
+              "large": 190
+            },
+            {
+              "name": "Puntacana XO",
+              "small": 145,
+              "large": 290
+            },
+            {
+              "name": "Pusser's Gunpowder",
+              "small": 80,
+              "large": 160
+            },
+            {
+              "name": "Pyrat XO Reserve",
+              "small": 95,
+              "large": 190
+            },
+            {
+              "name": "Ron Sostenible Triple Cask",
+              "small": 150,
+              "large": 300
+            },
+            {
+              "name": "Santiago 8 y.o.",
+              "small": 80,
+              "large": 160
+            },
+            {
+              "name": "Santiago Extra 11y",
+              "small": 95,
+              "large": 190
+            },
+            {
+              "name": "Unhiq XO",
+              "small": 225,
+              "large": 450
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vodka",
+      "label": {
+        "cs": "Vodka",
+        "en": "Vodka"
+      },
+      "note": {
+        "cs": "Ceny lihovin jsou uvedeny pro odlivky 0,02 l  /  0,04 l.",
+        "en": "Spirits are priced for 0.02 l  /  0.04 l pours."
+      },
+      "subgroups": [
+        {
+          "label": null,
+          "items": [
+            {
+              "name": "Absolut",
+              "small": 45,
+              "large": 90
+            },
+            {
+              "name": "Amundsen",
+              "small": 35,
+              "large": 70
+            },
+            {
+              "name": "Beluga",
+              "small": 85,
+              "large": 170
+            },
+            {
+              "name": "Belvedere Pure",
+              "small": 70,
+              "large": 140
+            },
+            {
+              "name": "Ciroc",
+              "small": 85,
+              "large": 170
+            },
+            {
+              "name": "Finlandia",
+              "small": 45,
+              "large": 90
+            },
+            {
+              "name": "Grey Goose",
+              "small": 75,
+              "large": 150
+            },
+            {
+              "name": "Nemiroff De Luxe Barrel",
+              "small": 45,
+              "large": 90
+            },
+            {
+              "name": "Stolichnaya",
+              "small": 35,
+              "large": 70
+            },
+            {
+              "name": "Zubrowka",
+              "small": 35,
+              "large": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gin",
+      "label": {
+        "cs": "Gin",
+        "en": "Gin"
+      },
+      "note": {
+        "cs": "Ceny lihovin jsou uvedeny pro odlivky 0,02 l  /  0,04 l.",
+        "en": "Spirits are priced for 0.02 l  /  0.04 l pours."
+      },
+      "subgroups": [
+        {
+          "label": null,
+          "items": [
+            {
+              "name": "Bobby's Dry Gin",
+              "small": 75,
+              "large": 150
+            },
+            {
+              "name": "Bobby's Jenever",
+              "small": 70,
+              "large": 140
+            },
+            {
+              "name": "Bohemian Gin",
+              "small": 75,
+              "large": 150
+            },
+            {
+              "name": "Bombay Sapphire",
+              "small": 55,
+              "large": 110
+            },
+            {
+              "name": "G'Vine Floraison",
+              "small": 70,
+              "large": 140
+            },
+            {
+              "name": "Gin Mare",
+              "small": 70,
+              "large": 140
+            },
+            {
+              "name": "Greenall's",
+              "small": 45,
+              "large": 90
+            },
+            {
+              "name": "Greenall's Blueberry",
+              "small": 45,
+              "large": 90
+            },
+            {
+              "name": "Greenall's Wild Berry",
+              "small": 45,
+              "large": 90
+            },
+            {
+              "name": "Hendrick's",
+              "small": 75,
+              "large": 150
+            },
+            {
+              "name": "June Meloun",
+              "small": 70,
+              "large": 140
+            },
+            {
+              "name": "June Broskev",
+              "small": 70,
+              "large": 140
+            },
+            {
+              "name": "June Hruška",
+              "small": 70,
+              "large": 140
+            },
+            {
+              "name": "Le Tribute",
+              "small": 85,
+              "large": 170
+            },
+            {
+              "name": "Ophir Spiced",
+              "small": 55,
+              "large": 110
+            },
+            {
+              "name": "Tanqueray",
+              "small": 45,
+              "large": 90
+            },
+            {
+              "name": "Tanqueray No. 10",
+              "small": 75,
+              "large": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tequila",
+      "label": {
+        "cs": "Tequila & Mezcal",
+        "en": "Tequila & Mezcal"
+      },
+      "note": {
+        "cs": "Ceny lihovin jsou uvedeny pro odlivky 0,02 l  /  0,04 l.",
+        "en": "Spirits are priced for 0.02 l  /  0.04 l pours."
+      },
+      "subgroups": [
+        {
+          "label": null,
+          "items": [
+            {
+              "name": "Don Julio Añejo",
+              "small": 180,
+              "large": 360
+            },
+            {
+              "name": "El Jimador Blanco",
+              "small": 55,
+              "large": 110
+            },
+            {
+              "name": "El Jimador Reposado",
+              "small": 65,
+              "large": 130
+            },
+            {
+              "name": "Herencia Reposado",
+              "small": 80,
+              "large": 160
+            },
+            {
+              "name": "Mezcal San Cosme",
+              "small": 90,
+              "large": 180
+            },
+            {
+              "name": "La Travesia Agave",
+              "small": 90,
+              "large": 180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "palenky",
+      "label": {
+        "cs": "Pálenky",
+        "en": "Fruit Brandies"
+      },
+      "note": {
+        "cs": "Ceny lihovin jsou uvedeny pro odlivky 0,02 l  /  0,04 l.",
+        "en": "Spirits are priced for 0.02 l  /  0.04 l pours."
+      },
+      "subgroups": [
+        {
+          "label": null,
+          "items": [
+            {
+              "name": "Baron Hildprandt Hruška 40 %",
+              "small": 65,
+              "large": 130
+            },
+            {
+              "name": "Baron Hildprandt Hruškovice 50 %",
+              "small": 65,
+              "large": 130
+            },
+            {
+              "name": "Baron Hildprandt Malina 40 %",
+              "small": 65,
+              "large": 130
+            },
+            {
+              "name": "Baron Hildprandt Meruňka 40 %",
+              "small": 65,
+              "large": 130
+            },
+            {
+              "name": "Baron Hildprandt Třešeň 40 %",
+              "small": 65,
+              "large": 130
+            },
+            {
+              "name": "Baron Hildprandt Slivovice 50 %",
+              "small": 65,
+              "large": 130
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ostatni",
+      "label": {
+        "cs": "Ostatní lihoviny",
+        "en": "Other Spirits & Liqueurs"
+      },
+      "note": {
+        "cs": "Ceny lihovin jsou uvedeny pro odlivky 0,02 l  /  0,04 l.",
+        "en": "Spirits are priced for 0.02 l  /  0.04 l pours."
+      },
+      "subgroups": [
+        {
+          "label": null,
+          "items": [
+            {
+              "name": "Baileys",
+              "small": 45,
+              "large": 90
+            },
+            {
+              "name": "Bohemian Bitter",
+              "small": 50,
+              "large": 100
+            },
+            {
+              "name": "Bohemian Spicer",
+              "small": 50,
+              "large": 100
+            },
+            {
+              "name": "Campari Bitter",
+              "small": 30,
+              "large": 60
+            },
+            {
+              "name": "Fernet Branca",
+              "small": 45,
+              "large": 90
+            },
+            {
+              "name": "Jägermeister",
+              "small": 45,
+              "large": 90
+            },
+            {
+              "name": "Metaxa 7 Star",
+              "small": 45,
+              "large": 90
+            },
+            {
+              "name": "Malibu",
+              "small": 45,
+              "large": 90
+            },
+            {
+              "name": "Noilly Prat",
+              "small": 40,
+              "large": 80
+            }
+          ]
+        },
+        {
+          "label": {
+            "cs": "Vermuty (0,1 l)",
+            "en": "Vermouth (0.1 l)"
+          },
+          "items": [
+            {
+              "name": "Cinzano Bianco",
+              "price": "80 Kč",
+              "note": {
+                "cs": "0,1 l",
+                "en": "0.1 l"
+              }
+            },
+            {
+              "name": "Cinzano Rosso",
+              "price": "80 Kč",
+              "note": {
+                "cs": "0,1 l",
+                "en": "0.1 l"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "whisky",
+      "label": {
+        "cs": "Whisky",
+        "en": "Whisky"
+      },
+      "note": {
+        "cs": "Ceny lihovin jsou uvedeny pro odlivky 0,02 l  /  0,04 l.",
+        "en": "Spirits are priced for 0.02 l  /  0.04 l pours."
+      },
+      "subgroups": [
+        {
+          "label": {
+            "cs": "Speyside",
+            "en": "Speyside"
+          },
+          "items": [
+            {
+              "name": "Aberlour 12 y.o.",
+              "small": 100,
+              "large": 200
+            },
+            {
+              "name": "BenRiach 10 y.o.",
+              "small": 75,
+              "large": 150
+            },
+            {
+              "name": "Cragganmore 12 y.o.",
+              "small": 110,
+              "large": 220
+            },
+            {
+              "name": "Glenlivet 12 y.o.",
+              "small": 75,
+              "large": 150
+            },
+            {
+              "name": "Glenfiddich 12 y.o.",
+              "small": 85,
+              "large": 170
+            }
+          ]
+        },
+        {
+          "label": {
+            "cs": "Highland",
+            "en": "Highland"
+          },
+          "items": [
+            {
+              "name": "GlenDronach 12 y.o.",
+              "small": 95,
+              "large": 190
+            },
+            {
+              "name": "Glenmorangie Lasanta",
+              "small": 110,
+              "large": 220
+            },
+            {
+              "name": "Macallan 12 y.o.",
+              "small": 210,
+              "large": 420
+            },
+            {
+              "name": "Macallan Sherry Oak",
+              "small": 215,
+              "large": 430
+            },
+            {
+              "name": "Oban 14 y.o.",
+              "small": 145,
+              "large": 290
+            },
+            {
+              "name": "Talisker 10 y.o.",
+              "small": 110,
+              "large": 220
+            }
+          ]
+        },
+        {
+          "label": {
+            "cs": "Islay",
+            "en": "Islay"
+          },
+          "items": [
+            {
+              "name": "Ardbeg 10 y.o.",
+              "small": 115,
+              "large": 230
+            },
+            {
+              "name": "Bowmore 12 y.o.",
+              "small": 115,
+              "large": 230
+            },
+            {
+              "name": "Bruichladdich Classic Laddie",
+              "small": 130,
+              "large": 260
+            },
+            {
+              "name": "Caol Ila 12 y.o.",
+              "small": 120,
+              "large": 240
+            },
+            {
+              "name": "Lagavulin 16 y.o.",
+              "small": 190,
+              "large": 380
+            },
+            {
+              "name": "Laphroaig 10 y.o.",
+              "small": 105,
+              "large": 210
+            },
+            {
+              "name": "Port Charlotte 10 y.o. Peated",
+              "small": 175,
+              "large": 350
+            }
+          ]
+        },
+        {
+          "label": {
+            "cs": "Bourbon / USA",
+            "en": "Bourbon / USA"
+          },
+          "items": [
+            {
+              "name": "Jack Daniel's Apple",
+              "small": 50,
+              "large": 100
+            },
+            {
+              "name": "Jack Daniel's Black",
+              "small": 50,
+              "large": 100
+            },
+            {
+              "name": "Jack Daniel's Fire",
+              "small": 50,
+              "large": 100
+            },
+            {
+              "name": "Jack Daniel's Honey",
+              "small": 50,
+              "large": 100
+            },
+            {
+              "name": "Maker's Mark",
+              "small": 70,
+              "large": 140
+            },
+            {
+              "name": "Woodford Reserve",
+              "small": 65,
+              "large": 130
+            },
+            {
+              "name": "Wild Turkey 81",
+              "small": 60,
+              "large": 120
+            }
+          ]
+        },
+        {
+          "label": {
+            "cs": "Irsko",
+            "en": "Ireland"
+          },
+          "items": [
+            {
+              "name": "Bushmills Original",
+              "small": 45,
+              "large": 90
+            },
+            {
+              "name": "Connemara",
+              "small": 90,
+              "large": 180
+            },
+            {
+              "name": "Jameson",
+              "small": 45,
+              "large": 90
+            },
+            {
+              "name": "Redbreast 12 y.o. Pot Still",
+              "small": 125,
+              "large": 250
+            },
+            {
+              "name": "Tullamore Dew",
+              "small": 45,
+              "large": 90
+            },
+            {
+              "name": "Tullamore Dew Honey",
+              "small": 45,
+              "large": 90
+            },
+            {
+              "name": "Teeling Single Malt",
+              "small": 100,
+              "large": 200
+            }
+          ]
+        },
+        {
+          "label": {
+            "cs": "Japonsko",
+            "en": "Japan"
+          },
+          "items": [
+            {
+              "name": "Hibiki Japanese Harmony",
+              "small": 230,
+              "large": 460
+            },
+            {
+              "name": "Nikka Whisky From The Barrel",
+              "small": 130,
+              "large": 260
+            }
+          ]
+        },
+        {
+          "label": {
+            "cs": "Skotská Blended",
+            "en": "Scotch Blended"
+          },
+          "items": [
+            {
+              "name": "Johnnie Walker Black Label 12 y.o.",
+              "small": 70,
+              "large": 140
+            },
+            {
+              "name": "Johnnie Walker Red Label",
+              "small": 45,
+              "large": 90
+            },
+            {
+              "name": "Hennessy VS",
+              "small": 80,
+              "large": 160
+            },
+            {
+              "name": "Hennessy VSOP",
+              "small": 115,
+              "large": 230
+            },
+            {
+              "name": "Chivas Regal 12",
+              "small": 60,
+              "large": 120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wine",
+      "label": {
+        "cs": "Víno & Šumivé",
+        "en": "Wine & Sparkling"
+      },
+      "subgroups": [
+        {
+          "label": {
+            "cs": "Rozlévané víno (0,1 l)",
+            "en": "Wine by the Glass (0.1 l)"
+          },
+          "items": [
+            {
+              "name": "Bílé / červené",
+              "price": "55 Kč"
+            },
+            {
+              "name": "Prosecco Foscaro",
+              "price": "65 Kč"
+            }
+          ]
+        },
+        {
+          "label": {
+            "cs": "Bílé",
+            "en": "White"
+          },
+          "items": [
+            {
+              "name": "Rulandské Šedé – D.K.Kolby",
+              "price": "230 Kč"
+            },
+            {
+              "name": "Ryzlink Vlašský – Pavlov",
+              "price": "200 Kč"
+            },
+            {
+              "name": "Sauvignon – Sonberk",
+              "price": "300 Kč"
+            }
+          ]
+        },
+        {
+          "label": {
+            "cs": "Červené",
+            "en": "Red"
+          },
+          "items": [
+            {
+              "name": "Finca Muñoz – Španělsko",
+              "price": "350 Kč"
+            },
+            {
+              "name": "Dornfelder – Grmolec",
+              "price": "310 Kč"
+            }
+          ]
+        },
+        {
+          "label": {
+            "cs": "Šumivé",
+            "en": "Sparkling"
+          },
+          "items": [
+            {
+              "name": "Prosecco DOC Brut – Itálie",
+              "price": "475 Kč"
+            },
+            {
+              "name": "Hoya De Cadenas Cava Brut – Španělsko",
+              "price": "360 Kč"
+            },
+            {
+              "name": "Delizioso Frizzante Bianco – Itálie",
+              "price": "210 Kč"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "beer",
+      "label": {
+        "cs": "Pivo & Cider",
+        "en": "Beer & Cider"
+      },
+      "subgroups": [
+        {
+          "label": null,
+          "items": [
+            {
+              "name": "Guinness",
+              "price": "107 Kč",
+              "note": {
+                "cs": "0,4 l",
+                "en": "0.4 l"
+              }
+            },
+            {
+              "name": "Hoegaarden",
+              "price": "75 Kč",
+              "note": {
+                "cs": "0,5 l",
+                "en": "0.5 l"
+              }
+            },
+            {
+              "name": "Magner's Original Cider",
+              "price": "110 Kč",
+              "note": {
+                "cs": "0,4 l",
+                "en": "0.4 l"
+              }
+            },
+            {
+              "name": "Nachmelená Opice Sun APA 12 %",
+              "price": "75 Kč",
+              "note": {
+                "cs": "0,5 l",
+                "en": "0.5 l"
+              }
+            },
+            {
+              "name": "Pilsner Urquell",
+              "price": "70 Kč",
+              "note": {
+                "cs": "0,5 l",
+                "en": "0.5 l"
+              }
+            },
+            {
+              "name": "Stella Artois — nealko",
+              "price": "55 Kč",
+              "note": {
+                "cs": "0,33 l",
+                "en": "0.33 l"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nealko",
+      "label": {
+        "cs": "Nealko",
+        "en": "Soft Drinks"
+      },
+      "subgroups": [
+        {
+          "label": null,
+          "items": [
+            {
+              "name": "Coca-Cola",
+              "price": "60 Kč",
+              "note": {
+                "cs": "0,33 l",
+                "en": "0.33 l"
+              }
+            },
+            {
+              "name": "Coca-Cola Zero",
+              "price": "60 Kč",
+              "note": {
+                "cs": "0,33 l",
+                "en": "0.33 l"
+              }
+            },
+            {
+              "name": "Fanta",
+              "price": "60 Kč",
+              "note": {
+                "cs": "0,33 l",
+                "en": "0.33 l"
+              }
+            },
+            {
+              "name": "Sprite",
+              "price": "60 Kč",
+              "note": {
+                "cs": "0,33 l",
+                "en": "0.33 l"
+              }
+            },
+            {
+              "name": "Kinley Tonic Water",
+              "price": "60 Kč",
+              "note": {
+                "cs": "0,25 l",
+                "en": "0.25 l"
+              }
+            },
+            {
+              "name": "Kinley Aromatic Berry",
+              "price": "60 Kč",
+              "note": {
+                "cs": "0,25 l",
+                "en": "0.25 l"
+              }
+            },
+            {
+              "name": "Kinley Tonic Ginger Ale",
+              "price": "60 Kč",
+              "note": {
+                "cs": "0,25 l",
+                "en": "0.25 l"
+              }
+            },
+            {
+              "name": "Cappy — pomeranč",
+              "price": "60 Kč",
+              "note": {
+                "cs": "0,25 l",
+                "en": "0.25 l"
+              }
+            },
+            {
+              "name": "Cappy — jablko",
+              "price": "60 Kč",
+              "note": {
+                "cs": "0,25 l",
+                "en": "0.25 l"
+              }
+            },
+            {
+              "name": "Römerquelle — neperlivá",
+              "price": "45 Kč",
+              "note": {
+                "cs": "0,33 l",
+                "en": "0.33 l"
+              }
+            },
+            {
+              "name": "Römerquelle — citronová tráva",
+              "price": "60 Kč",
+              "note": {
+                "cs": "0,33 l",
+                "en": "0.33 l"
+              }
+            },
+            {
+              "name": "Thomas Henry Tonic",
+              "price": "78 Kč",
+              "note": {
+                "cs": "0,2 l",
+                "en": "0.2 l"
+              }
+            },
+            {
+              "name": "Thomas Henry Ginger Beer",
+              "price": "78 Kč",
+              "note": {
+                "cs": "0,2 l",
+                "en": "0.2 l"
+              }
+            },
+            {
+              "name": "Redbull",
+              "price": "75 Kč",
+              "note": {
+                "cs": "0,25 l",
+                "en": "0.25 l"
+              }
+            },
+            {
+              "name": "Domácí limonáda — malina",
+              "price": "68 Kč",
+              "note": {
+                "cs": "0,4 l",
+                "en": "0.4 l"
+              }
+            },
+            {
+              "name": "Domácí limonáda — jahoda",
+              "price": "68 Kč",
+              "note": {
+                "cs": "0,4 l",
+                "en": "0.4 l"
+              }
+            },
+            {
+              "name": "Domácí limonáda — okurka",
+              "price": "68 Kč",
+              "note": {
+                "cs": "0,4 l",
+                "en": "0.4 l"
+              }
+            },
+            {
+              "name": "Domácí limonáda — bezinka",
+              "price": "68 Kč",
+              "note": {
+                "cs": "0,4 l",
+                "en": "0.4 l"
+              }
+            },
+            {
+              "name": "Domácí limonáda — mango",
+              "price": "68 Kč",
+              "note": {
+                "cs": "0,4 l",
+                "en": "0.4 l"
+              }
+            },
+            {
+              "name": "Domácí limonáda — máta",
+              "price": "68 Kč",
+              "note": {
+                "cs": "0,4 l",
+                "en": "0.4 l"
+              }
+            },
+            {
+              "name": "Soda — perlivá",
+              "price": "30 Kč",
+              "note": {
+                "cs": "0,3 l",
+                "en": "0.3 l"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "coffee",
+      "label": {
+        "cs": "Káva",
+        "en": "Coffee"
+      },
+      "subgroups": [
+        {
+          "label": null,
+          "items": [
+            {
+              "name": "Cappuccino",
+              "price": "75 Kč"
+            },
+            {
+              "name": "Caffè Latte",
+              "price": "77 Kč"
+            },
+            {
+              "name": "Doppio",
+              "price": "75 Kč"
+            },
+            {
+              "name": "Espresso / Lungo",
+              "price": "59 Kč"
+            },
+            {
+              "name": "Espresso Tonic",
+              "price": "91 Kč"
+            },
+            {
+              "name": "Espresso Baileys",
+              "price": "112 Kč"
+            },
+            {
+              "name": "Flat White",
+              "price": "85 Kč"
+            },
+            {
+              "name": "Irská káva",
+              "price": "125 Kč"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

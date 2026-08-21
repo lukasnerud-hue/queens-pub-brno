@@ -404,6 +404,7 @@ section{ position:relative; }
 .menu-nav a.is-active{ color: var(--c-black-deep); background: var(--accent); }
 
 .menu-group{ padding: 70px 0 20px; scroll-margin-top: calc(var(--nav-h) + 70px); }
+#menu-root > .menu-group:first-of-type{ padding-top: 32px; }
 .menu-group-head{ display:flex; align-items:baseline; gap:18px; margin-bottom: 30px; flex-wrap:wrap; }
 .menu-group-head h2{ font-size: clamp(26px,3.4vw,36px); text-transform:uppercase; color: var(--c-cream); }
 .menu-group-head .sub{ color: var(--accent); font-size:13px; letter-spacing:.1em; text-transform:uppercase; }

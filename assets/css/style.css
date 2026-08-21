@@ -247,7 +247,7 @@ button{ font-family: inherit; cursor:pointer; }
 .hero-eyebrow::before{ content:""; width:40px; height:1px; background: var(--accent); }
 .hero h1{
   font-size: clamp(42px, 8vw, 92px);
-  line-height: .98;
+  line-height: 1.15;
   text-transform: uppercase;
   color: var(--c-cream);
   max-width: 14ch;
@@ -416,6 +416,9 @@ section{ position:relative; }
 .menu-item .name{ font-weight:600; font-size:15px; }
 .menu-item .desc{ color: var(--text-dim); font-size:12.5px; margin-top:2px; }
 .menu-item .price{ color: var(--accent); font-weight:700; white-space:nowrap; font-size:14px; }
+@media (max-width:759px){
+  .menu-item{ justify-content:flex-start; flex-wrap:wrap; gap: 4px 10px; }
+}
 .menu-promo-banner{
   margin: 10px 0 50px; padding: 26px 30px; border-radius: var(--radius);
   background: linear-gradient(120deg, var(--c-green-deep), var(--c-green));

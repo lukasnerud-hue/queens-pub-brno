@@ -85,6 +85,7 @@
   }
   initMenuSpy();
   document.addEventListener("menu:rendered", function(){ initReveal(); initMenuSpy(); });
+  document.addEventListener("events:rendered", function(){ initReveal(); });
 
   /* ---------- gallery filters + lightbox (event-delegated: works with items added later by gallery.js) ---------- */
   var masonry = document.getElementById("gallery-masonry") || document.querySelector(".masonry");

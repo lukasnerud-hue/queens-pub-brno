@@ -63,17 +63,14 @@
   <div class="container">
     <div class="eyebrow"><span data-lang="cs">Týdenní rytmus</span><span data-lang="en">Weekly Rhythm</span></div>
     <h2 class="section-title"><span data-lang="cs">Náš <em>týden</em></span><span data-lang="en">Our <em>Week</em></span></h2>
-    <p class="section-intro"><span data-lang="cs">Otevřeno máme středa až sobota. Sobotní program právě ladíme s provozem — sledujte prosím Facebook a Instagram, kde je vždy aktuální program.</span><span data-lang="en">We're open Wednesday through Saturday. We're still finalising Saturday's programme — follow Facebook and Instagram for the current schedule.</span></p>
+    <p class="section-intro"><span data-lang="cs">Otevřeno máme středa až sobota. Středa a čtvrtek mají pevný program, pátek a sobota se každý týden střídají — přesné termíny najdete níže.</span><span data-lang="en">We're open Wednesday through Saturday. Wednesday and Thursday have a fixed programme; Friday and Saturday rotate week to week — see the exact dates below.</span></p>
 
-    <!-- NOTE FOR EDITOR: Wed (Turbo Hodina 20:00), Thu (Action Thursday 17:00) and Fri
-         (Music Fridays) are confirmed. Saturday and Beer Pong's day still need a
-         confirmed slot from the venue — replace the remaining "tbd-tag" once known. -->
     <div class="rhythm-grid reveal" style="margin-top:48px;">
       <div class="rhythm-day">
         <div class="dname"><span data-lang="cs">Středa</span><span data-lang="en">Wednesday</span></div>
         <div class="devt">
-          <div class="en">⚡ Turbo Hodina</div>
-          <div class="et"><span data-lang="cs">Od</span><span data-lang="en">From</span> 20:00 <span data-lang="cs">(otevřeno od 17:00)</span><span data-lang="en">(open from 17:00)</span></div>
+          <div class="en">⚡ <span data-lang="cs">Turbo Středa</span><span data-lang="en">Turbo Wednesday</span></div>
+          <div class="et"><span data-lang="cs">Od</span><span data-lang="en">From</span> 17:00</div>
         </div>
       </div>
       <div class="rhythm-day">
@@ -85,15 +82,15 @@
       </div>
       <div class="rhythm-day">
         <div class="dname"><span data-lang="cs">Pátek</span><span data-lang="en">Friday</span></div>
-        <div class="devt">
-          <div class="en">🎧 <span data-lang="cs">DJs &amp; živá hudba</span><span data-lang="en">DJs &amp; live music</span></div>
+        <div class="devt" id="rhythm-fri">
+          <div class="en">🎧 <span data-lang="cs">Střídá se — živá hudba, DJs &amp; Večer na ginu</span><span data-lang="en">Rotates — live music, DJs &amp; Gin Night</span></div>
           <div class="et">17:00 – 03:00</div>
         </div>
       </div>
       <div class="rhythm-day">
         <div class="dname"><span data-lang="cs">Sobota</span><span data-lang="en">Saturday</span></div>
-        <div class="devt">
-          <div class="en"><span data-lang="cs">Program se upřesňuje</span><span data-lang="en">Programme TBC</span></div>
+        <div class="devt" id="rhythm-sat">
+          <div class="en">🎲 <span data-lang="cs">Střídá se — Beer Pong &amp; herní večery</span><span data-lang="en">Rotates — Beer Pong &amp; game nights</span></div>
           <div class="et">17:00 – 03:00</div>
         </div>
       </div>
@@ -110,17 +107,17 @@
     <div class="grid-3 reveal" style="margin-top:48px;">
 
       <div class="evt-card" style="aspect-ratio:4/5;">
-        <img src="assets/img/gallery/turbo-hodina/003-thumb.jpg" alt="Turbo Hodina" loading="lazy">
+        <img src="assets/img/gallery/turbo-hodina/003-thumb.jpg" alt="Turbo Středa" loading="lazy">
         <div class="body">
-          <div class="day"><span data-lang="cs">Středy</span><span data-lang="en">Wednesdays</span> · 20:00</div>
-          <div class="name"><span data-lang="cs">Turbo Hodina</span><span data-lang="en">Turbo Hodina</span></div>
+          <div class="day"><span data-lang="cs">Středy</span><span data-lang="en">Wednesdays</span> · 17:00</div>
+          <div class="name"><span data-lang="cs">Turbo Středa</span><span data-lang="en">Turbo Wednesday</span></div>
         </div>
       </div>
 
       <div class="evt-card" style="aspect-ratio:4/5;">
         <img src="assets/img/gallery/beerpong/015-thumb.jpg" alt="Beer Pong" loading="lazy">
         <div class="body">
-          <div class="day"><span data-lang="cs">Turnaj</span><span data-lang="en">Tournament</span> <span class="tbd-tag">TBD</span></div>
+          <div class="day"><span data-lang="cs">Vybrané soboty</span><span data-lang="en">Selected Saturdays</span> · 22:00</div>
           <div class="name">Beer Pong</div>
         </div>
       </div>
@@ -128,12 +125,22 @@
       <div class="evt-card" style="aspect-ratio:4/5;">
         <img src="assets/img/gallery/koncerty/012-thumb.jpg" alt="Živá hudba a DJs" loading="lazy">
         <div class="body">
-          <div class="day"><span data-lang="cs">Pátky</span><span data-lang="en">Fridays</span></div>
+          <div class="day"><span data-lang="cs">Vybrané pátky</span><span data-lang="en">Selected Fridays</span></div>
           <div class="name"><span data-lang="cs">DJs &amp; Živá hudba</span><span data-lang="en">DJs &amp; Live Music</span></div>
         </div>
       </div>
 
     </div>
+  </div>
+</section>
+
+<!-- ===================== WHAT'S ON THIS MONTH ===================== -->
+<section class="section-pad">
+  <div class="container">
+    <div class="eyebrow"><span data-lang="cs">Konkrétní termíny</span><span data-lang="en">Upcoming Dates</span></div>
+    <h2 class="section-title"><span data-lang="cs">Co je na <em>programu</em></span><span data-lang="en">What's <em>On</em></span></h2>
+    <p id="events-month" class="events-month"></p>
+    <div id="events-list" class="events-list reveal"></div>
   </div>
 </section>
 
@@ -208,5 +215,6 @@
 </footer>
 
 <script src="assets/js/main.js"></script>
+<script src="assets/js/events.js"></script>
 </body>
 </html>

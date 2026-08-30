@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://queenspubbrno.cz/sitemap.xml

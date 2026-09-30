@@ -455,7 +455,12 @@ section{ position:relative; }
 /* what's-on / dated events list */
 .events-month{
   text-align:center; color: var(--accent); font-weight:700;
-  letter-spacing:.14em; text-transform:uppercase; font-size:13px; margin: 18px 0 40px;
+  letter-spacing:.14em; text-transform:uppercase; font-size:13px; margin: 18px 0 12px;
+}
+.events-promo{
+  text-align:center; color: var(--c-cream); font-weight:600; font-size:15px;
+  max-width:560px; margin:0 auto 40px; padding:14px 22px; border:1px solid var(--line);
+  border-radius:20px; background: var(--bg-raised);
 }
 .events-list{ max-width: 720px; margin-inline:auto; }
 .event-row{

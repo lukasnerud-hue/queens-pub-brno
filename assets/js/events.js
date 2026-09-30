@@ -75,10 +75,17 @@
     var monthLabel = document.getElementById("events-month");
     if(!root) return;
 
+    var promoLabel = document.getElementById("events-promo");
+
     fetch("data/events.json").then(function(r){ return r.json(); }).then(function(data){
       if(monthLabel){
         monthLabel.appendChild(span(data.month.cs, "cs"));
         monthLabel.appendChild(span(data.month.en, "en"));
+      }
+      if(promoLabel && data.promo && (data.promo.cs || data.promo.en)){
+        promoLabel.appendChild(span(data.promo.cs, "cs"));
+        promoLabel.appendChild(span(data.promo.en, "en"));
+        promoLabel.style.display = "";
       }
       var frag = document.createDocumentFragment();
       data.events.forEach(function(ev){ frag.appendChild(renderRow(ev)); });

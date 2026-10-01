@@ -360,8 +360,8 @@
               "small": 130,
               "large": 65,
               "note": {
-                "cs": "Malina 40 % · Hruška 40 % · Třešeň 40 % · Meruňka 40 % · Slivovice 50 % · medová hruška 30 % · hruškovice 50 %",
-                "en": "Raspberry 40% · Pear 40% · Cherry 40% · Apricot 40% · Slivovice 50% · Honey Pear 30% · Pear Brandy 50%"
+                "cs": "Malina 40 % · Hruška 40 % · Třešeň 40 % · Meruňka 40 % · Slivovice 50 % · medová hruška 30 % · medová švestka 30 % · hruškovice 50 %",
+                "en": "Raspberry 40% · Pear 40% · Cherry 40% · Apricot 40% · Slivovice 50% · Honey Pear 30% · Honey Plum 30% · Pear Brandy 50%"
               }
             }
           ]
@@ -510,127 +510,114 @@
       },
       "subgroups": [
         {
-          "label": null,
+          "label": {
+            "cs": "Cocktails Speciál",
+            "en": "Specialty Cocktails"
+          },
           "items": [
             {
-              "name": "Painkiller",
+              "name": "Celtic Smoke",
               "desc": {
-                "cs": "Pusser's Gunpowder Proof, pomeranč, ananas, kokosový sirup, smetana",
-                "en": "Pusser's Gunpowder Proof, orange, pineapple, coconut syrup, cream"
+                "cs": "Talisker, Laphroaig, med, Angostura — intenzivní a kouřový whisky koktejl s rašelinnými tóny, medovou sladkostí a hřejivým kořeněným závěrem.",
+                "en": "Talisker, Laphroaig, honey, Angostura — an intense, smoky whisky cocktail with peaty notes, honeyed sweetness and a warming spiced finish."
               },
-              "price": "210 Kč"
+              "price": "209 Kč"
             },
             {
-              "name": "Hemingway Daiquiri",
+              "name": "Smoke Margarita",
               "desc": {
-                "cs": "Flor de Caña, Maraschino, grep, limeta",
-                "en": "Flor de Caña, Maraschino, grapefruit, lime"
+                "cs": "El Jimador Blanco, Mezcal, Cointreau, citron — výrazná Margarita s kouřovým charakterem mezcalu, svěží citrusovou kyselostí a jemně nasládlým pomerančovým závěrem.",
+                "en": "El Jimador Blanco, Mezcal, Cointreau, lemon — a bold Margarita with smoky mezcal character, fresh citrus acidity and a gently sweet orange finish."
               },
-              "price": "126 Kč"
+              "price": "169 Kč"
             },
             {
-              "name": "Espresso Martini",
+              "name": "Irish Margarita",
               "desc": {
-                "cs": "Stolichnaya vodka, Kahlua, espresso, cukr",
-                "en": "Stolichnaya vodka, Kahlua, espresso, sugar"
-              },
-              "price": "214 Kč"
-            },
-            {
-              "name": "Orange & Chilli Martini",
-              "desc": {
-                "cs": "Stolichnaya vodka, pomerančový juice, marakuja, citrón, chilli",
-                "en": "Stolichnaya vodka, orange juice, passionfruit, lemon, chilli"
-              },
-              "price": "130 Kč"
-            },
-            {
-              "name": "Tommy's Margarita",
-              "desc": {
-                "cs": "El Jimador Reposado, limeta, agáve sirup",
-                "en": "El Jimador Reposado, lime, agave syrup"
+                "cs": "El Jimador Blanco, Jameson, Cointreau, limeta, agáve — výrazná Margarita spojující tequilu a irskou whiskey, doplněná limetou a jemnou sladkostí agáve.",
+                "en": "El Jimador Blanco, Jameson, Cointreau, lime, agave — a bold Margarita pairing tequila and Irish whiskey, rounded out with lime and gentle agave sweetness."
               },
               "price": "165 Kč"
             },
             {
-              "name": "Peach Belini",
+              "name": "Caribbean Storm",
               "desc": {
-                "cs": "Prosecco, broskvový likér, broskev",
-                "en": "Prosecco, peach liqueur, peach"
+                "cs": "Bacardi, limeta, maracuja, ginger beer tonic — tropicky svěží koktejl s maracujou, jemnou citrusovou kyselostí a pikantním zázvorovým zakončením.",
+                "en": "Bacardi, lime, passionfruit, ginger beer tonic — a tropically fresh cocktail with passionfruit, gentle citrus acidity and a spicy ginger finish."
               },
-              "price": "124 Kč"
+              "price": "165 Kč"
             },
             {
-              "name": "Aperol Spritz",
+              "name": "Highland Collins",
               "desc": {
-                "cs": "Aperol, Prosecco, soda",
-                "en": "Aperol, Prosecco, soda"
+                "cs": "Chivas Regal Whisky — svěží a lehký whisky koktejl s jemnou citrusovou kyselostí, sladkým podtónem a osvěžujícím perlením.",
+                "en": "Chivas Regal Whisky — a fresh, light whisky cocktail with gentle citrus acidity, a sweet undertone and refreshing sparkle."
               },
-              "price": "135 Kč"
+              "price": "145 Kč"
             },
             {
-              "name": "Long Island Ice Tea",
+              "name": "Pub Spritz",
               "desc": {
-                "cs": "Flor de Caña, Stolichnaya vodka, El Jimador Tequila, Greenall's Gin, Cointreau, limeta, Coca-Cola",
-                "en": "Flor de Caña, Stolichnaya vodka, El Jimador tequila, Greenall's gin, Cointreau, lime, Coca-Cola"
+                "cs": "Campari, Greenall's Gin, Prosecco, soda — hořkosladký a osvěžující spritz s bylinnými tóny ginu, suchým Proseccem a příjemně hořkým závěrem.",
+                "en": "Campari, Greenall's Gin, Prosecco, soda — a bittersweet, refreshing spritz with herbal gin notes, dry Prosecco and a pleasantly bitter finish."
               },
-              "price": "280 Kč"
+              "price": "145 Kč"
             },
             {
-              "name": "Breakfast Martini",
+              "name": "English Garden Sour",
               "desc": {
-                "cs": "Tanqueray, Cointreau, citrón, pomerančová marmeláda",
-                "en": "Tanqueray, Cointreau, lemon, orange marmalade"
+                "cs": "Hendrick's Gin, citron, bezinkový sirup, okurka, bílek — jemný a sametový sour s tóny okurky a bezu, svěží citrusovou linkou a hladkou pěnou.",
+                "en": "Hendrick's Gin, lemon, elderflower syrup, cucumber, egg white — a soft, velvety sour with cucumber and elderflower notes, bright citrus and smooth foam."
               },
-              "price": "170 Kč"
+              "price": "159 Kč"
             },
             {
-              "name": "Clover Club",
+              "name": "Barmanovo překvapení",
               "desc": {
-                "cs": "Greenall's Gin, Maraschino, malina, bílek, citrón",
-                "en": "Greenall's gin, Maraschino, raspberry, egg white, lemon"
+                "cs": "Vyberte si jen svou náladu. O zbytek se postará barman.",
+                "en": "Just pick your mood. The bartender takes care of the rest."
               },
-              "price": "168 Kč"
+              "price": ""
+            }
+          ]
+        },
+        {
+          "label": {
+            "cs": "Cocktails Classic",
+            "en": "Classic Cocktails"
+          },
+          "items": [
+            {
+              "name": "Daiquiri",
+              "desc": {
+                "cs": "Flor de Caña, limeta, cukr",
+                "en": "Flor de Caña, lime, sugar"
+              },
+              "price": "180 Kč"
             },
             {
-              "name": "Martinez",
+              "name": "Gimlet",
               "desc": {
-                "cs": "Tanqueray 10, Punt e Mes, Maraschino, Angostura bitters",
-                "en": "Tanqueray 10, Punt e Mes, Maraschino, Angostura bitters"
+                "cs": "Greenall's, limeta, cukr",
+                "en": "Greenall's, lime, sugar"
               },
-              "price": "253 Kč"
+              "price": "180 Kč"
             },
             {
               "name": "Negroni",
               "desc": {
-                "cs": "Tanqueray, Campari, Punt e Mes",
-                "en": "Tanqueray, Campari, Punt e Mes"
+                "cs": "Gin (dle výběru), Campari, Punt e Mes",
+                "en": "Gin (your choice), Campari, Punt e Mes"
               },
-              "price": "176 Kč"
-            },
-            {
-              "name": "The Gardener",
-              "desc": {
-                "cs": "Greenall's Gin, bezový sirup, okurka, citrón, Tonic",
-                "en": "Greenall's gin, elderflower syrup, cucumber, lemon, tonic"
-              },
-              "price": "150 Kč"
-            },
-            {
-              "name": "Blood and Sand",
-              "desc": {
-                "cs": "Chivas Regal 12, Cherry Heering, Punt e Mes, pomeranč",
-                "en": "Chivas Regal 12, Cherry Heering, Punt e Mes, orange"
-              },
-              "price": "200 Kč"
+              "price": "100 Kč + cena ginu"
             },
             {
               "name": "Boulevardier",
               "desc": {
-                "cs": "Talisker 10, Antica Formula, Campari",
-                "en": "Talisker 10, Antica Formula, Campari"
+                "cs": "Whiskey (dle výběru), Punt e Mes, Campari",
+                "en": "Whiskey (your choice), Punt e Mes, Campari"
               },
-              "price": "310 Kč"
+              "price": "100 Kč + cena whiskey"
             },
             {
               "name": "Manhattan",
@@ -643,26 +630,18 @@
             {
               "name": "Old Fashioned",
               "desc": {
-                "cs": "Woodford Reserve, Angostura bitters, třtinový cukr",
-                "en": "Woodford Reserve, Angostura bitters, cane sugar"
+                "cs": "Panák (dle výběru), Angostura bitters, třtinový cukr",
+                "en": "Shot (your choice), Angostura bitters, cane sugar"
               },
-              "price": "250 Kč"
+              "price": "100 Kč + cena panáku"
             },
             {
-              "name": "Whisky Sour",
+              "name": "Sour Cocktails",
               "desc": {
-                "cs": "Maker's Mark, citrón, vaječný bílek, cukr",
-                "en": "Maker's Mark, lemon, egg white, sugar"
+                "cs": "Panák (dle výběru), citrón, vaječný bílek, cukr",
+                "en": "Shot (your choice), lemon, egg white, sugar"
               },
-              "price": "190 Kč"
-            },
-            {
-              "name": "Cabin Bwoy",
-              "desc": {
-                "cs": "Flor de Caña, mandarinka, limeta, cukr",
-                "en": "Flor de Caña, tangerine, lime, sugar"
-              },
-              "price": "140 Kč"
+              "price": "100 Kč + cena panáku"
             },
             {
               "name": "Dark 'n' Stormy",
@@ -671,6 +650,158 @@
                 "en": "Goslings rum, lime, ginger beer, Angostura bitters"
               },
               "price": "195 Kč"
+            },
+            {
+              "name": "Painkiller",
+              "desc": {
+                "cs": "Pusser's Gunpowder Proof, pomeranč, ananas, kokosový sirup",
+                "en": "Pusser's Gunpowder Proof, orange, pineapple, coconut syrup"
+              },
+              "price": "210 Kč"
+            },
+            {
+              "name": "Espresso Martini",
+              "desc": {
+                "cs": "Seven vodka, Kahlua, espresso, cukr",
+                "en": "Seven vodka, Kahlua, espresso, sugar"
+              },
+              "price": "219 Kč"
+            },
+            {
+              "name": "Tommy's Margarita",
+              "desc": {
+                "cs": "El Jimador Reposado, limeta, agáve sirup",
+                "en": "El Jimador Reposado, lime, agave syrup"
+              },
+              "price": "165 Kč"
+            },
+            {
+              "name": "Aperol Spritz",
+              "desc": {
+                "cs": "Aperol, Prosecco, soda",
+                "en": "Aperol, Prosecco, soda"
+              },
+              "price": "119 Kč"
+            },
+            {
+              "name": "Hugo Spritz",
+              "desc": {
+                "cs": "Prosecco, bezový sirup, soda",
+                "en": "Prosecco, elderflower syrup, soda"
+              },
+              "price": "119 Kč"
+            },
+            {
+              "name": "Long Island Ice Tea",
+              "desc": {
+                "cs": "Flor de Caña, Seven vodka, El Jimador Tequila, Greenall's Gin, Cointreau, limeta, Coca-Cola",
+                "en": "Flor de Caña, Seven vodka, El Jimador tequila, Greenall's gin, Cointreau, lime, Coca-Cola"
+              },
+              "price": "280 Kč"
+            },
+            {
+              "name": "Cuba Libre",
+              "desc": {
+                "cs": "Flor de Caña, limeta, Coca-Cola",
+                "en": "Flor de Caña, lime, Coca-Cola"
+              },
+              "price": "119 Kč"
+            },
+            {
+              "name": "Skinny Bitch",
+              "desc": {
+                "cs": "Seven vodka, soda, limeta",
+                "en": "Seven vodka, soda, lime"
+              },
+              "price": "119 Kč"
+            },
+            {
+              "name": "Gin & Tonic",
+              "desc": {
+                "cs": "Greenall's gin, tonik",
+                "en": "Greenall's gin, tonic"
+              },
+              "price": "119 Kč"
+            },
+            {
+              "name": "Pink | Blue Gin & Tonic",
+              "desc": {
+                "cs": "Wildberry | Blueberry Greenall's, tonik",
+                "en": "Wildberry | Blueberry Greenall's, tonic"
+              },
+              "price": "119 Kč"
+            },
+            {
+              "name": "Beton",
+              "desc": {
+                "cs": "Becherovka, tonik",
+                "en": "Becherovka, tonic"
+              },
+              "price": "99 Kč"
+            },
+            {
+              "name": "Bavorák",
+              "desc": {
+                "cs": "Fernet Stock, tonik",
+                "en": "Fernet Stock, tonic"
+              },
+              "price": "99 Kč"
+            }
+          ]
+        },
+        {
+          "label": {
+            "cs": "Akční čtvrtek",
+            "en": "Action Thursday Combos"
+          },
+          "items": [
+            {
+              "name": "Dublin Bomb",
+              "desc": {
+                "cs": "Guinness + panák (Jameson, Baileys)",
+                "en": "Guinness + a shot (Jameson, Baileys)"
+              },
+              "price": "139 Kč"
+            },
+            {
+              "name": "Guinness + Baby Guinness",
+              "desc": {
+                "cs": "",
+                "en": ""
+              },
+              "price": "139 Kč"
+            },
+            {
+              "name": "Guinness + Jameson",
+              "desc": {
+                "cs": "",
+                "en": ""
+              },
+              "price": "139 Kč"
+            },
+            {
+              "name": "Plzeň + Fernet Stock",
+              "desc": {
+                "cs": "",
+                "en": ""
+              },
+              "price": "99 Kč"
+            },
+            {
+              "name": "Radegast + Becherovka",
+              "desc": {
+                "cs": "",
+                "en": ""
+              },
+              "price": "99 Kč"
+            },
+            {
+              "name": "Degustační prkno",
+              "desc": {
+                "cs": "",
+                "en": ""
+              },
+              "price": ""
             }
           ]
         }
@@ -693,7 +824,7 @@
             {
               "name": "Abuelo 5 y.o.",
               "small": 45,
-              "large": 90
+              "large": 65
             },
             {
               "name": "Abuelo 7 y.o.",
@@ -716,19 +847,9 @@
               "large": 250
             },
             {
-              "name": "A.H. Riise",
-              "small": 95,
-              "large": 190
-            },
-            {
               "name": "Appleton Estate 12 y.o. Rare",
               "small": 80,
               "large": 160
-            },
-            {
-              "name": "Barceló Blanco",
-              "small": 45,
-              "large": 90
             },
             {
               "name": "Barceló Gran Añejo",
@@ -749,11 +870,6 @@
               "name": "Bumbu Cream White",
               "small": 65,
               "large": 130
-            },
-            {
-              "name": "Captain Morgan Spiced Gold Original",
-              "small": 40,
-              "large": 80
             },
             {
               "name": "Diplomático Reserva Exclusiva",
@@ -797,13 +913,13 @@
             },
             {
               "name": "El Clásico XO",
-              "small": 50,
-              "large": 100
+              "small": 55,
+              "large": 110
             },
             {
               "name": "El Clásico Elixir",
-              "small": 40,
-              "large": 80
+              "small": 45,
+              "large": 85
             },
             {
               "name": "El Dorado 12 y.o.",
@@ -829,11 +945,6 @@
               "name": "Flor de Caña 18 y.o.",
               "small": 95,
               "large": 190
-            },
-            {
-              "name": "Flor de Caña 25 y.o.",
-              "small": 240,
-              "large": 480
             },
             {
               "name": "Goslings Black Seal",
@@ -886,24 +997,9 @@
               "large": 160
             },
             {
-              "name": "Plantation 20th XO",
-              "small": 95,
-              "large": 190
-            },
-            {
               "name": "Puntacana Club Black Rum",
               "small": 80,
               "large": 160
-            },
-            {
-              "name": "Puntacana Espléndido",
-              "small": 80,
-              "large": 160
-            },
-            {
-              "name": "Puntacana Muy Viejo",
-              "small": 50,
-              "large": 100
             },
             {
               "name": "Puntacana Tesoro",
@@ -924,26 +1020,6 @@
               "name": "Pyrat XO Reserve",
               "small": 95,
               "large": 190
-            },
-            {
-              "name": "Ron Sostenible Triple Cask",
-              "small": 150,
-              "large": 300
-            },
-            {
-              "name": "Santiago 8 y.o.",
-              "small": 80,
-              "large": 160
-            },
-            {
-              "name": "Santiago Extra 11y",
-              "small": 95,
-              "large": 190
-            },
-            {
-              "name": "Unhiq XO",
-              "small": 225,
-              "large": 450
             }
           ]
         }
@@ -1004,9 +1080,9 @@
               "large": 90
             },
             {
-              "name": "Stolichnaya",
-              "small": 35,
-              "large": 70
+              "name": "Stoli",
+              "small": 45,
+              "large": 85
             },
             {
               "name": "Zubrowka",
@@ -1093,6 +1169,11 @@
             },
             {
               "name": "June Hruška",
+              "small": 70,
+              "large": 140
+            },
+            {
+              "name": "June Marakuja",
               "small": 70,
               "large": 140
             },
@@ -1211,6 +1292,16 @@
               "name": "Baron Hildprandt Slivovice 50 %",
               "small": 65,
               "large": 130
+            },
+            {
+              "name": "Baron Hildprandt Medová Hruška 30 %",
+              "small": 65,
+              "large": 130
+            },
+            {
+              "name": "Baron Hildprandt Medová Švestka 30 %",
+              "small": 65,
+              "large": 130
             }
           ]
         }
@@ -1274,6 +1365,21 @@
               "name": "Noilly Prat",
               "small": 40,
               "large": 80
+            },
+            {
+              "name": "Zelená",
+              "small": 30,
+              "large": 55
+            },
+            {
+              "name": "Griotka",
+              "small": 30,
+              "large": 55
+            },
+            {
+              "name": "Pštros",
+              "small": 45,
+              "large": 85
             }
           ]
         },
@@ -1344,6 +1450,11 @@
               "name": "Glenfiddich 12 y.o.",
               "small": 85,
               "large": 170
+            },
+            {
+              "name": "Chivas Regal 12",
+              "small": 60,
+              "large": 120
             }
           ]
         },
@@ -1526,7 +1637,7 @@
               "large": 460
             },
             {
-              "name": "Nikka Whisky From The Barrel",
+              "name": "Nikka Whiskey From Barrel",
               "small": 130,
               "large": 260
             }
@@ -1557,11 +1668,6 @@
               "name": "Hennessy VSOP",
               "small": 115,
               "large": 230
-            },
-            {
-              "name": "Chivas Regal 12",
-              "small": 60,
-              "large": 120
             }
           ]
         }
@@ -1585,7 +1691,7 @@
               "price": "55 Kč"
             },
             {
-              "name": "Prosecco Foscaro",
+              "name": "Prosecco Vigna Preziosa",
               "price": "65 Kč"
             }
           ]
@@ -1597,16 +1703,16 @@
           },
           "items": [
             {
-              "name": "Rulandské Šedé – D.K.Kolby",
-              "price": "230 Kč"
+              "name": "Rulandské Šedé – D.K. Kolby, kabinet",
+              "price": "280 Kč"
             },
             {
-              "name": "Ryzlink Vlašský – Pavlov",
-              "price": "200 Kč"
+              "name": "Pálava – Znovín, MZV",
+              "price": "250 Kč"
             },
             {
-              "name": "Sauvignon – Sonberk",
-              "price": "300 Kč"
+              "name": "Sauvignon – Sonberk, PS",
+              "price": "350 Kč"
             }
           ]
         },
@@ -1617,12 +1723,12 @@
           },
           "items": [
             {
-              "name": "Finca Muñoz – Španělsko",
-              "price": "350 Kč"
+              "name": "Dornfelder, pozdní sběr – Grmolec",
+              "price": "390 Kč"
             },
             {
-              "name": "Dornfelder – Grmolec",
-              "price": "310 Kč"
+              "name": "Primitivo – Itálie",
+              "price": "350 Kč"
             }
           ]
         },
@@ -1660,7 +1766,7 @@
           "items": [
             {
               "name": "Guinness",
-              "price": "107 Kč",
+              "price": "110 Kč",
               "note": {
                 "cs": "0,4 l",
                 "en": "0.4 l"
@@ -1668,7 +1774,7 @@
             },
             {
               "name": "Hoegaarden",
-              "price": "75 Kč",
+              "price": "85 Kč",
               "note": {
                 "cs": "0,5 l",
                 "en": "0.5 l"
@@ -1683,8 +1789,16 @@
               }
             },
             {
-              "name": "Nachmelená Opice Sun APA 12 %",
-              "price": "75 Kč",
+              "name": "Polička 11",
+              "price": "55 Kč",
+              "note": {
+                "cs": "0,5 l",
+                "en": "0.5 l"
+              }
+            },
+            {
+              "name": "Radegast 12",
+              "price": "68 Kč",
               "note": {
                 "cs": "0,5 l",
                 "en": "0.5 l"
@@ -1692,7 +1806,7 @@
             },
             {
               "name": "Pilsner Urquell",
-              "price": "70 Kč",
+              "price": "68 Kč",
               "note": {
                 "cs": "0,5 l",
                 "en": "0.5 l"
@@ -1729,63 +1843,7 @@
               }
             },
             {
-              "name": "Coca-Cola Zero",
-              "price": "60 Kč",
-              "note": {
-                "cs": "0,33 l",
-                "en": "0.33 l"
-              }
-            },
-            {
-              "name": "Fanta",
-              "price": "60 Kč",
-              "note": {
-                "cs": "0,33 l",
-                "en": "0.33 l"
-              }
-            },
-            {
-              "name": "Sprite",
-              "price": "60 Kč",
-              "note": {
-                "cs": "0,33 l",
-                "en": "0.33 l"
-              }
-            },
-            {
-              "name": "Kinley Tonic Water",
-              "price": "60 Kč",
-              "note": {
-                "cs": "0,25 l",
-                "en": "0.25 l"
-              }
-            },
-            {
               "name": "Kinley Aromatic Berry",
-              "price": "60 Kč",
-              "note": {
-                "cs": "0,25 l",
-                "en": "0.25 l"
-              }
-            },
-            {
-              "name": "Kinley Tonic Ginger Ale",
-              "price": "60 Kč",
-              "note": {
-                "cs": "0,25 l",
-                "en": "0.25 l"
-              }
-            },
-            {
-              "name": "Cappy — pomeranč",
-              "price": "60 Kč",
-              "note": {
-                "cs": "0,25 l",
-                "en": "0.25 l"
-              }
-            },
-            {
-              "name": "Cappy — jablko",
               "price": "60 Kč",
               "note": {
                 "cs": "0,25 l",
@@ -1801,8 +1859,8 @@
               }
             },
             {
-              "name": "Römerquelle — citronová tráva",
-              "price": "60 Kč",
+              "name": "Römerquelle — jemné neperlivá",
+              "price": "45 Kč",
               "note": {
                 "cs": "0,33 l",
                 "en": "0.33 l"
@@ -1833,59 +1891,27 @@
               }
             },
             {
-              "name": "Domácí limonáda — malina",
-              "price": "68 Kč",
+              "name": "Redbull Summer / Lime",
+              "price": "80 Kč",
               "note": {
-                "cs": "0,4 l",
-                "en": "0.4 l"
+                "cs": "0,25 l",
+                "en": "0.25 l"
               }
             },
             {
-              "name": "Domácí limonáda — jahoda",
+              "name": "Domácí limonáda",
               "price": "68 Kč",
               "note": {
-                "cs": "0,4 l",
-                "en": "0.4 l"
+                "cs": "dle nabídky, 0,5 l",
+                "en": "flavor varies, 0.5 l"
               }
             },
             {
-              "name": "Domácí limonáda — okurka",
-              "price": "68 Kč",
-              "note": {
-                "cs": "0,4 l",
-                "en": "0.4 l"
-              }
-            },
-            {
-              "name": "Domácí limonáda — bezinka",
-              "price": "68 Kč",
-              "note": {
-                "cs": "0,4 l",
-                "en": "0.4 l"
-              }
-            },
-            {
-              "name": "Domácí limonáda — mango",
-              "price": "68 Kč",
-              "note": {
-                "cs": "0,4 l",
-                "en": "0.4 l"
-              }
-            },
-            {
-              "name": "Domácí limonáda — máta",
-              "price": "68 Kč",
-              "note": {
-                "cs": "0,4 l",
-                "en": "0.4 l"
-              }
-            },
-            {
-              "name": "Soda — perlivá",
+              "name": "Karafa",
               "price": "30 Kč",
               "note": {
-                "cs": "0,3 l",
-                "en": "0.3 l"
+                "cs": "perlivá / neperlivá, 1 l",
+                "en": "sparkling / still, 1 l"
               }
             }
           ]
@@ -1919,20 +1945,8 @@
               "price": "59 Kč"
             },
             {
-              "name": "Espresso Tonic",
-              "price": "91 Kč"
-            },
-            {
-              "name": "Espresso Baileys",
-              "price": "112 Kč"
-            },
-            {
               "name": "Flat White",
               "price": "85 Kč"
-            },
-            {
-              "name": "Irská káva",
-              "price": "125 Kč"
             }
           ]
         }

@@ -748,12 +748,18 @@
               "price": "99 Kč"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "akcni-ctvrtek",
+      "label": {
+        "cs": "Akční čtvrtek",
+        "en": "Action Thursday"
+      },
+      "subgroups": [
         {
-          "label": {
-            "cs": "Akční čtvrtek",
-            "en": "Action Thursday Combos"
-          },
+          "label": null,
           "items": [
             {
               "name": "Dublin Bomb",

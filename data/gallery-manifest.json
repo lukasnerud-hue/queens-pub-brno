@@ -2533,34 +2533,6 @@
         "thumb": {
           "w": 900,
           "h": 1350,
-          "jpg": "assets/img/gallery/kolo-stesti/001-thumb.jpg",
-          "webp": "assets/img/gallery/kolo-stesti/001-thumb.webp"
-        },
-        "full": {
-          "w": 1333,
-          "h": 2000,
-          "jpg": "assets/img/gallery/kolo-stesti/001-full.jpg",
-          "webp": "assets/img/gallery/kolo-stesti/001-full.webp"
-        }
-      },
-      {
-        "thumb": {
-          "w": 900,
-          "h": 1350,
-          "jpg": "assets/img/gallery/kolo-stesti/002-thumb.jpg",
-          "webp": "assets/img/gallery/kolo-stesti/002-thumb.webp"
-        },
-        "full": {
-          "w": 1333,
-          "h": 2000,
-          "jpg": "assets/img/gallery/kolo-stesti/002-full.jpg",
-          "webp": "assets/img/gallery/kolo-stesti/002-full.webp"
-        }
-      },
-      {
-        "thumb": {
-          "w": 900,
-          "h": 1350,
           "jpg": "assets/img/gallery/kolo-stesti/003-thumb.jpg",
           "webp": "assets/img/gallery/kolo-stesti/003-thumb.webp"
         },
@@ -2569,6 +2541,20 @@
           "h": 2000,
           "jpg": "assets/img/gallery/kolo-stesti/003-full.jpg",
           "webp": "assets/img/gallery/kolo-stesti/003-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/kolo-stesti/001-thumb.jpg",
+          "webp": "assets/img/gallery/kolo-stesti/001-thumb.webp"
+        },
+        "full": {
+          "w": 1333,
+          "h": 2000,
+          "jpg": "assets/img/gallery/kolo-stesti/001-full.jpg",
+          "webp": "assets/img/gallery/kolo-stesti/001-full.webp"
         }
       },
       {
@@ -2597,6 +2583,20 @@
           "h": 2000,
           "jpg": "assets/img/gallery/kolo-stesti/005-full.jpg",
           "webp": "assets/img/gallery/kolo-stesti/005-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/kolo-stesti/002-thumb.jpg",
+          "webp": "assets/img/gallery/kolo-stesti/002-thumb.webp"
+        },
+        "full": {
+          "w": 1333,
+          "h": 2000,
+          "jpg": "assets/img/gallery/kolo-stesti/002-full.jpg",
+          "webp": "assets/img/gallery/kolo-stesti/002-full.webp"
         }
       },
       {

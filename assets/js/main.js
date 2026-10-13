@@ -17,20 +17,42 @@
     applyLang(btn.getAttribute("data-lang-btn"));
   });
 
-  /* ---------- respect reduced motion for hero video ---------- */
+  /* ---------- hero video: autoplay with graceful fallback ---------- */
   var heroVideo = document.querySelector(".hero-media video");
   if(heroVideo){
     var reduceMotion = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-    if(reduceMotion){ heroVideo.removeAttribute("autoplay"); heroVideo.pause(); }
-    else {
+    var heroEl = heroVideo.closest(".hero");
+    var playBtn = null;
+
+    var showPlayBtn = function(){
+      if(playBtn || !heroEl) return;
+      playBtn = document.createElement("button");
+      playBtn.type = "button";
+      playBtn.className = "hero-play";
+      playBtn.innerHTML = '<span class="ico" aria-hidden="true">&#9654;</span>' +
+        '<span data-lang="cs">Přehrát video</span><span data-lang="en">Play video</span>';
+      playBtn.addEventListener("click", function(){
+        var p = heroVideo.play();
+        if(p && p.catch){ p.catch(function(){}); }
+      });
+      heroEl.appendChild(playBtn);
+    };
+    var hidePlayBtn = function(){ if(playBtn){ playBtn.remove(); playBtn = null; } };
+    heroVideo.addEventListener("playing", hidePlayBtn);
+
+    if(reduceMotion){
+      heroVideo.removeAttribute("autoplay"); heroVideo.pause(); showPlayBtn();
+    } else {
       heroVideo.muted = true;
       var tryPlay = function(){
         var p = heroVideo.play();
-        if(p && p.catch){ p.catch(function(){}); }
+        if(p && p.catch){ p.catch(function(){ showPlayBtn(); }); }
       };
       tryPlay();
       heroVideo.addEventListener("loadeddata", tryPlay);
       heroVideo.addEventListener("canplay", tryPlay);
+      // Safari / iOS may block autoplay (Low Power Mode, site settings): offer a manual button
+      setTimeout(function(){ if(heroVideo.paused){ showPlayBtn(); } }, 1800);
       var kick = function(){
         if(heroVideo.paused){ tryPlay(); }
         ["touchstart","pointerdown","scroll","keydown"].forEach(function(ev){ window.removeEventListener(ev, kick); });

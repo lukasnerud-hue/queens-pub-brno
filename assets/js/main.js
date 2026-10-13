@@ -22,6 +22,22 @@
   if(heroVideo){
     var reduceMotion = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
     if(reduceMotion){ heroVideo.removeAttribute("autoplay"); heroVideo.pause(); }
+    else {
+      heroVideo.muted = true;
+      var tryPlay = function(){
+        var p = heroVideo.play();
+        if(p && p.catch){ p.catch(function(){}); }
+      };
+      tryPlay();
+      heroVideo.addEventListener("loadeddata", tryPlay);
+      heroVideo.addEventListener("canplay", tryPlay);
+      var kick = function(){
+        if(heroVideo.paused){ tryPlay(); }
+        ["touchstart","pointerdown","scroll","keydown"].forEach(function(ev){ window.removeEventListener(ev, kick); });
+      };
+      ["touchstart","pointerdown","scroll","keydown"].forEach(function(ev){ window.addEventListener(ev, kick, {passive:true}); });
+      document.addEventListener("visibilitychange", function(){ if(!document.hidden && heroVideo.paused){ tryPlay(); } });
+    }
   }
 
   /* ---------- header scroll state ---------- */

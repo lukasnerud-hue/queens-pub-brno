@@ -5,12 +5,12 @@
   var CAT_LABELS_CS = {
     "bar": "Bar", "beerpong": "Beer Pong", "drinky": "Drinky",
     "koncerty": "Koncerty", "turbo-hodina": "Turbo Hodina", "vecer-na-ginu": "Večer na ginu",
-    "degustacni-prkno": "Degustační prkno"
+    "degustacni-prkno": "Degustační prkno", "kolo-stesti": "Kolo štěstí"
   };
   var CAT_LABELS_EN = {
     "bar": "Bar", "beerpong": "Beer Pong", "drinky": "Drinks",
     "koncerty": "Live Music", "turbo-hodina": "Turbo Hodina", "vecer-na-ginu": "Gin Night",
-    "degustacni-prkno": "Tasting Board"
+    "degustacni-prkno": "Tasting Board", "kolo-stesti": "Wheel of Fortune"
   };
 
   function el(tag, cls){ var e = document.createElement(tag); if(cls) e.className = cls; return e; }
@@ -61,7 +61,7 @@
     var activeCat = params.get("cat");
 
     fetch("data/gallery-manifest.json").then(function(r){ return r.json(); }).then(function(data){
-      var order = ["bar","drinky","koncerty","turbo-hodina","beerpong","vecer-na-ginu","degustacni-prkno"];
+      var order = ["bar","drinky","koncerty","turbo-hodina","beerpong","vecer-na-ginu","degustacni-prkno","kolo-stesti"];
       var cats = order.filter(function(s){ return data[s]; }).map(function(s){
         return {slug:s, cs: CAT_LABELS_CS[s] || data[s].label, en: CAT_LABELS_EN[s] || data[s].label};
       });

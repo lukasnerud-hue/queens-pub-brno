@@ -2450,5 +2450,80 @@
         }
       }
     ]
+  },
+  "degustacni-prkno": {
+    "label": "Degustační prkno",
+    "photos": [
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/degustacni-prkno/001-thumb.jpg",
+          "webp": "assets/img/gallery/degustacni-prkno/001-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1066,
+          "jpg": "assets/img/gallery/degustacni-prkno/001-full.jpg",
+          "webp": "assets/img/gallery/degustacni-prkno/001-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/degustacni-prkno/002-thumb.jpg",
+          "webp": "assets/img/gallery/degustacni-prkno/002-thumb.webp"
+        },
+        "full": {
+          "w": 1333,
+          "h": 2000,
+          "jpg": "assets/img/gallery/degustacni-prkno/002-full.jpg",
+          "webp": "assets/img/gallery/degustacni-prkno/002-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/degustacni-prkno/003-thumb.jpg",
+          "webp": "assets/img/gallery/degustacni-prkno/003-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1066,
+          "jpg": "assets/img/gallery/degustacni-prkno/003-full.jpg",
+          "webp": "assets/img/gallery/degustacni-prkno/003-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/degustacni-prkno/004-thumb.jpg",
+          "webp": "assets/img/gallery/degustacni-prkno/004-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1066,
+          "jpg": "assets/img/gallery/degustacni-prkno/004-full.jpg",
+          "webp": "assets/img/gallery/degustacni-prkno/004-full.webp"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 1350,
+          "jpg": "assets/img/gallery/degustacni-prkno/005-thumb.jpg",
+          "webp": "assets/img/gallery/degustacni-prkno/005-thumb.webp"
+        },
+        "full": {
+          "w": 1333,
+          "h": 2000,
+          "jpg": "assets/img/gallery/degustacni-prkno/005-full.jpg",
+          "webp": "assets/img/gallery/degustacni-prkno/005-full.webp"
+        }
+      }
+    ]
   }
 }

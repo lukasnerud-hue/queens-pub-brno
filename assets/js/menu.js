@@ -103,6 +103,19 @@
     }
     wrap.appendChild(head);
 
+    if(group.photos && group.photos.length){
+      var strip = el("div","menu-photos");
+      group.photos.forEach(function(src){
+        var pic = el("a","menu-photo");
+        pic.href = "gallery.html?cat=" + (group.photoCat || group.id);
+        var img = el("img"); img.src = src; img.loading = "lazy";
+        img.alt = group.label.cs + " — Queen's Pub Brno";
+        pic.appendChild(img);
+        strip.appendChild(pic);
+      });
+      wrap.appendChild(strip);
+    }
+
     group.subgroups.forEach(function(sg){
       var sub = el("div","menu-subgroup");
       if(sg.label){ sub.appendChild(bilingual(sg.label, "h3")); }

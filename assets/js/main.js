@@ -22,7 +22,6 @@
   if(heroVideo){
     var reduceMotion = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
     if(reduceMotion){ heroVideo.removeAttribute("autoplay"); heroVideo.pause(); }
-    else if(!heroVideo.paused && heroVideo.readyState >= 3){ heroVideo.classList.add("is-playing"); }
   }
 
   /* ---------- header scroll state ---------- */

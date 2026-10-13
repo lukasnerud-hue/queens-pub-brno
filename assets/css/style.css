@@ -233,9 +233,7 @@ button{ font-family: inherit; cursor:pointer; }
   width:100%; height:100%; object-fit:cover;
   transform: scale(1.02);
 }
-/* poster (= first video frame) is shown instantly; video fades in over it once it really plays */
-.hero-media video{ opacity:0; transition: opacity .5s ease; }
-.hero-media video.is-playing{ opacity:1; }
+/* poster attribute = exact first video frame, so there is no jump when the video starts */
 .hero-media::after{
   content:"";
   position:absolute; inset:0;

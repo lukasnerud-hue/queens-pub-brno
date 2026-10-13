@@ -2486,20 +2486,6 @@
         "thumb": {
           "w": 900,
           "h": 600,
-          "jpg": "assets/img/gallery/degustacni-prkno/003-thumb.jpg",
-          "webp": "assets/img/gallery/degustacni-prkno/003-thumb.webp"
-        },
-        "full": {
-          "w": 1600,
-          "h": 1066,
-          "jpg": "assets/img/gallery/degustacni-prkno/003-full.jpg",
-          "webp": "assets/img/gallery/degustacni-prkno/003-full.webp"
-        }
-      },
-      {
-        "thumb": {
-          "w": 900,
-          "h": 600,
           "jpg": "assets/img/gallery/degustacni-prkno/004-thumb.jpg",
           "webp": "assets/img/gallery/degustacni-prkno/004-thumb.webp"
         },

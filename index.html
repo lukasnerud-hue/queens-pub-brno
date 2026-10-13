@@ -46,6 +46,7 @@
 <link rel="apple-touch-icon" href="assets/img/logo/apple-touch-icon.png">
 <link rel="stylesheet" href="assets/css/style.css">
 <script>(function(){try{var l=localStorage.getItem("qp-lang")||"cs";document.documentElement.setAttribute("data-lang",l);}catch(e){}})();</script>
+<link rel="preload" as="image" href="assets/video/hero-poster.jpg" fetchpriority="high">
 </head>
 <body>
 
@@ -89,8 +90,8 @@
 <!-- ===================== HERO ===================== -->
 <section class="hero">
   <div class="hero-media">
-    <video autoplay muted loop playsinline preload="auto" poster="assets/img/gallery/bar/001-full.jpg">
-      <source src="assets/video/hero-intro.mp4" type="video/mp4">
+    <video autoplay muted loop playsinline preload="auto" poster="assets/video/hero-poster.jpg" onplaying="this.classList.add('is-playing')">
+      <source src="assets/video/hero-intro-720.mp4" type="video/mp4">
     </video>
   </div>
   <div class="container hero-inner">

@@ -3419,6 +3419,97 @@
           "h": 1067,
           "jpg": "assets/img/gallery/parties/020-full.jpg"
         }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/parties/022-thumb.jpg",
+          "webp": "assets/img/gallery/parties/022-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/parties/022-full.jpg"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/parties/023-thumb.jpg",
+          "webp": "assets/img/gallery/parties/023-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/parties/023-full.jpg"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/parties/024-thumb.jpg",
+          "webp": "assets/img/gallery/parties/024-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/parties/024-full.jpg"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/parties/025-thumb.jpg",
+          "webp": "assets/img/gallery/parties/025-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/parties/025-full.jpg"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/parties/026-thumb.jpg",
+          "webp": "assets/img/gallery/parties/026-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/parties/026-full.jpg"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/parties/027-thumb.jpg",
+          "webp": "assets/img/gallery/parties/027-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/parties/027-full.jpg"
+        }
+      },
+      {
+        "thumb": {
+          "w": 900,
+          "h": 600,
+          "jpg": "assets/img/gallery/parties/028-thumb.jpg",
+          "webp": "assets/img/gallery/parties/028-thumb.webp"
+        },
+        "full": {
+          "w": 1600,
+          "h": 1067,
+          "jpg": "assets/img/gallery/parties/028-full.jpg"
+        }
       }
     ]
   }
